@@ -8,4 +8,4 @@ I'm aiming to create an overview of Slovak grammar I can use to help me learn it
 # Sources
 
 - https://slovake.eu/ [Accessed 2025]
-- Gramatika súčasnej slovenčiny. (2023). 3rd ed. Bratislava: Lingea s.r.o.
+- Gramatika súčasnej slovenčiny. (2023). 3rd ed. Bratislava: Lingea s.r.o. ISBN 978-80-8145-341-0
