@@ -63,13 +63,13 @@ Predložky *ku*, *so* vždy vyslovujeme ako [gu], [zo] ak nestoja pred osobným 
 Napr.: ku vchodu [gu fchodu], so sestrou [zo sestrou]
 
 Predložky *k*, *s* + znelá spoluhláska/samohláska = výslovnosť [g], [z] ak nestoja pred osobným zámenom.<br>
-Napr.: k vode [g voďe], s bratom [z bratom]
+Napr.: **k v**ode [g voďe], **s b**ratom [z bratom]
 
 Predložka *z* + neznelá spoluhláska = výslovnosť [s] ak nestojí pred osobným zámenom.<br>
-Napr.: z pivnice [s pivňice]
+Napr.: **z p**ivnice [s pivňice]
 
 V dvojici *jj* sa prvé *j* vyslový ako [i], a druhé ako [j].<br>
-Napr.: dvojjazyčný [dvoijaziční]
+Napr.: dvo**jj**azyčný [dvoijaziční]
 
 ---
 
