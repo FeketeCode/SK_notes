@@ -39,3 +39,39 @@
 | Neznelé | `p t ť k f s š ch c  č`  |                       |
 
 > *l*, *ĺ*, *r*, *ŕ* tvoria slabiku, ak stoja medzi dvoma spoluhláskami, napr.: vŕba &rarr; vŕ-ba.
+
+#### Výslovnosť spoluhlások - Spodobovanie
+
+Znelá + Neznelá = Neznelá<br>
+Napr.: **vs**túpiť [fstúpiť], be**zp**ečnosť [bespečnosť], po**d p**ecou [pot pecou]
+
+Neznelá + Znelá = Znelá<br>
+Napr.: **kd**e [gďe], kre**sb**a [krezba], **s m**atkou [z matkou]
+
+Spoluhláska *v* sama spodobovanie nespôsobuje<br>
+Napr.: **sv**iatok [sviatok], **kv**ety [kvety], **chv**at [chvat]
+
+Na konci slová je spoluhláska vždy neznelá, ak po nej nasleduje pauza.<br>
+Napr.: prúd vody [prúd vodi] ALE prúd [prút]
+
+Predložky *k*, *ku*, *s*, *so*, *z* + osobné zámeny &ne; spodobovanie<br>
+Napr.: so mnou [so mnou], k nám [k nám], s nami [s nami]
+
+Predložka *zo* vždy vyslovujeme ako [zo].
+
+Predložky *ku*, *so* vždy vyslovujeme ako [gu], [zo] ak nestoja pred osobným zámenom.<br>
+Napr.: ku vchodu [gu fchodu], so sestrou [zo sestrou]
+
+Predložky *k*, *s* + znelá spoluhláska/samohláska = výslovnosť [g], [z] ak nestoja pred osobným zámenom.<br>
+Napr.: k vode [g voďe], s bratom [z bratom]
+
+Predložka *z* + neznelá spoluhláska = výslovnosť [s] ak nestojí pred osobným zámenom.<br>
+Napr.: z pivnice [s pivňice]
+
+V dvojici *jj* sa prvé *j* vyslový ako [i], a druhé ako [j].<br>
+Napr.: dvojjazyčný [dvoijaziční]
+
+---
+
+### Dvojhlásky
+
