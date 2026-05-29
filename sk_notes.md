@@ -23,6 +23,14 @@
 
 > *e*, *i*, *í*, *ia*, *ie*, *iu* v domácich slovách zvyčajne zmäkčujú prechádzajúce spoluhlásky, ako *deti* [ďeťi], ALE nie v slovách ako *tieto* [tieto], *diamant* [diamant]!
 
+### Dvojhlásky (diftongy)
+
+| Dvojhlásky   |
+| :----------: |
+| `ia ie iu ô` |
+
+> *e*, *i*, *í*, *ia*, *ie*, *iu* v domácich slovách zvyčajne zmäkčujú prechádzajúce spoluhlásky, ako *deti* [ďeťi], ALE nie v slovách ako *tieto* [tieto], *diamant* [diamant]!
+
 ### Spoluhlásky (konsonanty)
 
 | Tvrdé              | Mäkké                     | Obojaké           | Iné     |
@@ -73,5 +81,16 @@ Napr.: dvo**jj**azyčný [dvoijaziční]
 
 ---
 
-### Dvojhlásky
+### Rytmický zákon
 
+Nevyskytujú sa 2 dlhé slabiky za sebou. Dlhé slabiky obsahujú samohlásku, dvojhlásku, dlhé r (*ŕ*), alebo dlhé l (*ĺ*)<br>
+Napr.: hn**ie**z-d**a**ch, č**í**-t**a**m
+
+Výnimky:
+
+- druhá dlhá slabika obsahuje dvojhlásku: v**ý**h**ie**r
+- zložené slová: š**é**ftr**é**ner, tis**í**cn**á**sobný
+- genitív množného čísla ženského rodu končiaci sa na -í: v**ô**n**í**, b**á**sn**í**, tv**á**r**í**
+- tvary neurčitých zámen: n**ie**č**í**, b**á**rsč**í**m
+- prídavné mená podľa vzoru *páví*: koh**ú**t**í**, mot**ý**l**í**
+- činné príčastie minulé s príponami *-vší*, *-všia*, *-všie* po dvojhláske *ia*: dopr**ia**vš**í**, vyl**ia**vš**í** sa
