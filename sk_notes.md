@@ -94,3 +94,28 @@ Výnimky:
 - tvary neurčitých zámen: n**ie**č**í**, b**á**rsč**í**m
 - prídavné mená podľa vzoru *páví*: koh**ú**t**í**, mot**ý**l**í**
 - činné príčastie minulé s príponami *-vší*, *-všia*, *-všie* po dvojhláske *ia*: dopr**ia**vš**í**, vyl**ia**vš**í** sa
+
+<div style="page-break-after: always;"></div>
+
+<h1 style="text-align:center">TVAROSLOVIE (MORFOLÓGIA)</h1>
+
+## Gramatický tvar
+
+Koreň = je hlavným nositeľom významu a spoločná pre všetky príbuzné slová.<br>
+Napr.: škola &rarr; pred**škol**ský, pre**škol**iť, **škol**iteľ
+
+Predpona = stojí pred koreňom a mení význam slova, ale nie jeho slovný druh.<br>
+Napr.: **do**maľovať, **vy**maľovať, **pri**maľovať
+
+Prípona = stojí za koreňom a mení význam slova. Druhy prípon:
+
+- odvodzovacia prípona = stojí za koreňom. Pri ohýbaní sa nemení a zvyčajne mení slovný druh.<br>Napr.: botan**ický**, stavb**árka**, strúha**dlo**
+- kmeňotvorná prípona = týka sa slovies. Pripája sa ku koreňu a spolu s ním vytvára slovesný kmeň (prítomníkový alebo neurčitkový)<br>Napr.: nakup**ova**l, mlad**nú**ť, ples**a**li
+- koncovka (ohýbacia prípona) = pripája sa za kmeň. Určuje kategóriu pádu pri menách a osoby pri slovesách<br>Napr.: Chytil**a** oranžové**ho** vtáčik**a**
+
+Kmeň = predpona + koreň + odvodzovacia prípona. Súčasťou kmeňa musí byť vždy koreň.
+Napr: **Chodievam**e do **športové**ho **bar**u U *Fer*a.
+
+Slovný základ = časť slova, na ktorú sa pripája pádová prípona.
+
+---
