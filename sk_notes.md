@@ -99,6 +99,8 @@ Výnimky:
 
 <h1 style="text-align:center">TVAROSLOVIE (MORFOLÓGIA)</h1>
 
+---
+
 ## Gramatický tvar
 
 Koreň = je hlavným nositeľom významu a spoločná pre všetky príbuzné slová.<br>
