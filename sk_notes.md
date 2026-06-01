@@ -121,3 +121,16 @@ Napr: **Chodievam**e do **športové**ho **bar**u U *Fer*a.
 Slovný základ = časť slova, na ktorú sa pripája pádová prípona.
 
 ---
+
+## Členenie slovných druhov
+
+- Významové (semantické)
+    - Plnovýznamové = významovo samostatné slová: podstatné mená, prídavné mená, slovesá, zámená, číslovky, príslovky.
+    - Neplnovýznamové = významovo nesamostatné slová: predložky, spojky, častice, citoslovcia.
+- Tvaroslovné (morfologické)
+    - Ohybné = tvar sa mení.<br>
+        - skloňujú sa: podstatné mená, prídavné mená, zámená, číslovky.
+        - časujú sa: slovesá.
+    - Neohybné = tvar sa nemení: príslovky, predložky, spojky, častice, citoslovcia.
+
+---
