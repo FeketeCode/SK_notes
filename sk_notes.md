@@ -134,3 +134,50 @@ Slovný základ = časť slova, na ktorú sa pripája pádová prípona.
     - Neohybné = tvar sa nemení: príslovky, predložky, spojky, častice, citoslovcia.
 
 ---
+
+<div style="page-break-after: always;"></div>
+
+<h1 style="text-align:center">Podstatné mená (substantívum)</h1>
+
+---
+
+## Rod
+
+Existujú tri rody:
+
+- Mužský rod (m.r.)
+- Ženský rod (ž.r.)
+- Stredný rod (s.r.)
+
+Prirodzený rod = určenie rodu podľa pohlavia.<br>
+Napr.: otec (m.r.) - matka (ž.r.), kohút (m.r.) - sliepka (ž.r.).
+
+Gramatický rod = určenie rodu je formálne.<br>
+Napr.: stôl (m.r.), pohovka (ž.r.), kreslo (s.r.).
+
+## Živnosť/Neživnosť
+
+Iba v mužskom rode! Životné podstatné mená mužského rodu (ž.m.r.) označujú živé bytosti, ako zvieratá v jednotnom čísle a ludia, napr.: pes, poľovník. Všetko ostatné a zvieracie mená v množnom čísle sa považujú za neživotné podstanté mená mužského rodu (nž.m.r.)! Ako životné v množnom čísle ich vnímame len v prenesenom význame v hovorovom štýle či v krásnej literatúre, napr.: psy (nž.m.r.) - psi (ž.m.r), vlky (nž.m.r.) - vlci (ž.m.r).
+
+## Číslo
+
+- Počítateľné podstatné mená = môžu byť v jednotnom (singulár, j.č) alebo v množnom čísle (plurál, mn.č.): kniha (j.č.) - knihy (mn.č.), auto (j.č.) - autá (mn.č.).
+- Nepočítateľné podstatné mená
+    - pomnožné podstatné mená = existujú iba v množnom čísle a vyjadrujú množstvo aj jednotlivinu: hodiny, husle, noviny.
+    - hromadné podstatné mená = majú iba tvary jednotného čísla a označujú viac vecí rovnakého druhu. Ich množstvo vyjadrujeme spojením s neurčitými číslovkami: hmyz &rarr; málo hmyzu, mládež &rarr; niekoľko mládeže, učivo &rarr; veľa učiva.
+    - látkové podstatné mená = v jednotnom čísle označujú látku bez ohľadu na jej množstvo: blato, olej, železo.
+
+> V množnom čísle sa význam látkového podstatného mena posúva: dve pivá =  dva poháre s pivom!
+
+## Pád
+
+| Pád              | Pádová otázka     |
+| ---------------- | ----------------- |
+| Nominatív (N)    | Kto? Čo?          |
+| Genitív (G)      | Koho? Čoho?       |
+| Datív (D)        | Komu? Čomu?       |
+| Akuzatív (A)     | Koho? Čo?         |
+| Lokál (L)        | (o) Kom? (o) Čom? |
+| Inštrumentál (I) | (s) Kým? Čím?     |
+
+---
