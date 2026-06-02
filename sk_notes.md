@@ -184,6 +184,8 @@ Iba v mužskom rode! Životné podstatné mená mužského rodu (ž.m.r.) označ
 
 ## Mužský rod 
 
+### Vzor chlap
+
 |     | Singulár | Plurál   |
 | --- | -------- | -------- |
 | N   | chlap    | chlapi   |
@@ -203,7 +205,7 @@ Alternácia hlások v kmeni:<br>
 `k` &rarr; `c`: chlapík &rarr; chlapíci, vojak &rarr; vojaci<br>
 `ch` &rarr; `s`: beloch &rarr; belosi, divoch &rarr; divosi
 
-### 1. podvzor občan
+### 1.podvzor občan
 
 |     | Singulár | Plurál     |
 | --- | -------- | ---------- |
