@@ -137,7 +137,7 @@ Slovný základ = časť slova, na ktorú sa pripája pádová prípona.
 
 <div style="page-break-after: always;"></div>
 
-<h1 style="text-align:center">Podstatné mená (substantívum)</h1>
+<h1 style="text-align:center">PODSTATNÉ MENÁ (SUBSTANTÍVUM)</h1>
 
 ---
 
@@ -181,3 +181,53 @@ Iba v mužskom rode! Životné podstatné mená mužského rodu (ž.m.r.) označ
 | Inštrumentál (I) | (s) Kým? Čím?     |
 
 ---
+
+## Mužský rod 
+
+|     | Singulár | Plurál   |
+| --- | -------- | -------- |
+| N   | chlap    | chlapi   |
+| G   | chlapa   | chlapov  |
+| D   | chlapovi | chlapom  |
+| A   | chlapa   | chlapov  |
+| L   | chlapovi | chlapoch |
+| I   | chlapom  | chlapmi  |
+
+Patria sem:
+
+- životné podstatné mená zakončené na spoluhlásku: kuchá**r**, fará**r**.
+- vlastné mená zakončené na -`u`: Papandre**u**, Višn**u**.
+- zvieracie podstatné mená v jednotnom čísle: slon, orangutan.
+
+Alternácia hlások v kmeni:<br>
+`k` &rarr; `c`: chlapík &rarr; chlapíci, vojak &rarr; vojaci<br>
+`ch` &rarr; `s`: beloch &rarr; belosi, divoch &rarr; divosi
+
+### 1. podvzor občan
+
+|     | Singulár | Plurál     |
+| --- | -------- | ---------- |
+| N   | občan    | občania \* |
+| G   | občana   | občanov    |
+| D   | občanovi | občanom    |
+| A   | občana   | občanov    |
+| L   | občanovi | občanoch   |
+| I   | občanom  | občanmi    |
+
+Patria sem:<br>
+- všeobecné/vlastné mená zakončené na -`an`: mešť**an**, skalič**an**.
+- slová zakončené na `-teľ`: uči**teľ**, obyva**teľ**.
+
+> V množnom čísle sa tvarotvorný základ mení nevýrazne:<br>
+> `d` &rarr; `ď`: sused &rarr; susedia [suseďia]<br>
+> `t` &rarr; `ť`: brat &rarr; bratia [braťia]<br>
+> `l` &rarr; `ľ`: manžel &rarr; manželia [manžeľia]<br>
+
+|     | Singulár | Plurál |
+| --- | -------- | ------ |
+| N   |  |  |
+| G   |  |  |
+| D   |  |  |
+| A   |  |  |
+| L   |  |  |
+| I   |  |  |
