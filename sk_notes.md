@@ -182,7 +182,7 @@ Iba v mužskom rode! Životné podstatné mená mužského rodu (ž.m.r.) označ
 
 ---
 
-## Mužský rod 
+## Mužský rod, životný
 
 ### Vzor chlap
 
@@ -197,7 +197,7 @@ Iba v mužskom rode! Životné podstatné mená mužského rodu (ž.m.r.) označ
 
 Patria sem:
 
-- životné podstatné mená zakončené na spoluhlásku: kuchá**r**, fará**r**.
+- podstatné mená zakončené na spoluhlásku: kuchá**r**, fará**r**.
 - vlastné mená zakončené na -`u`: Papandre**u**, Višn**u**.
 - zvieracie podstatné mená v jednotnom čísle: slon, orangutan.
 
@@ -269,6 +269,7 @@ Patria sem:
 Patria sem:
 
 - podstatné mená zakončené na -`o`: tatk**o**, maestr**o**, oc**o**
+
 
 
 |     | Singulár | Plurál |
