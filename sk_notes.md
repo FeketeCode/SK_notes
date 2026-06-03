@@ -205,7 +205,7 @@ Alternácia hlások v kmeni:<br>
 `k` &rarr; `c`: chlapík &rarr; chlapíci, vojak &rarr; vojaci<br>
 `ch` &rarr; `s`: beloch &rarr; belosi, divoch &rarr; divosi
 
-### 1.podvzor občan
+#### 1.podvzor občan
 
 |     | Singulár | Plurál     |
 | --- | -------- | ---------- |
@@ -237,7 +237,7 @@ V množnom čísle v genitíve a akuzatíve môže byť slovo „hosť“ v tvar
 > `t` &rarr; `ť`: brat &rarr; bratia [braťia]<br>
 > `l` &rarr; `ľ`: manžel &rarr; manželia [manžeľia]<br>
 
-### 2.podvzor druh
+#### 2.podvzor druh
 
 |     | Singulár | Plurál      |
 | --- | -------- | ----------- |
@@ -252,7 +252,7 @@ Patria sem:
 
 - podstatné mená cudzieho pôvodu: archeológ, samuraj, chirurg.
 
-### 3.podvzor dedko
+#### 3.podvzor dedko
 
 |     | Singulár | Plurál      |
 | --- | -------- | ----------- |
