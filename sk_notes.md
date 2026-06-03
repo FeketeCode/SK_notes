@@ -184,6 +184,8 @@ Iba v mužskom rode! Životné podstatné mená mužského rodu (ž.m.r.) označ
 
 ## Mužský rod, životný
 
+> Odteraz bude symbol * v tabule označovať, v ktorom prípade sa podvzor líši od vzoru.
+
 ### Vzor chlap
 
 |     | Singulár | Plurál   |
@@ -268,9 +270,52 @@ Patria sem:
 
 Patria sem:
 
-- podstatné mená zakončené na -`o`: tatk**o**, maestr**o**, oc**o**
+- podstatné mená zakončené na -`o`: tatk**o**, maestr**o**, oc**o**.
 
+### Vzor hrdina
 
+|     | Singulár | Plurál    |
+| --- | -------- | --------- |
+| N   | hrdina   | hrdinovia |
+| G   | hrdinu   | hrdinov   |
+| D   | hrdinovi | hrdinom   |
+| A   | hrdinu   | hrdinov   |
+| L   | hrdinovi | hrdinoch  |
+| I   | hrdinom  | hrdinami  |
+
+Patria sem:
+
+- podstatné mená zakončené na -`a`: predsed**a**, koleg**a**, predajc**a**.
+
+#### 1.podvzor hokejista
+
+|     | Singulár    | Plurál       |
+| --- | ----------- | ------------ |
+| N   | hokejista   | hokejisti \* |
+| G   | hokejistu   | hokejistov   |
+| D   | hokejistovi | hokejistom   |
+| A   | hokejistu   | hokejistov   |
+| L   | hokejistovi | hokejistoch  |
+| I   | hokejistom  | hokejistami  |
+
+Patria sem:
+
+- podstatné mená zakončené na - `ista`: futbal**ista**, tur**ista**, husl**ista**.
+
+#### 2.podvzor husita
+
+|     | Singulár | Plurál     |
+| --- | -------- | ---------- |
+| N   | husita   | husiti \*  |
+| G   | husitu   | husitov    |
+| D   | husitovi | husitom    |
+| A   | husitu   | husitov    |
+| L   | husitovi | husitoch   |
+| I   | husitom  | husitmi \* |
+
+Patria sem:
+
+- podstatné mená zakončené na -`ita`: band**ita**, jezu**ita**, metropol**ita**.
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
