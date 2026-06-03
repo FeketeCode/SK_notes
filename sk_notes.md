@@ -219,11 +219,57 @@ Alternácia hlások v kmeni:<br>
 Patria sem:<br>
 - všeobecné/vlastné mená zakončené na -`an`: mešť**an**, skalič**an**.
 - slová zakončené na `-teľ`: uči**teľ**, obyva**teľ**.
+- slová hosť a človek:
+
+|     | Singulár | Plurál            | Singulár           | Plurál |
+| --- | -------- | ----------------- | ------------------ | ------ |
+| N   | hosť     | hostia            | človek             | ľudia  |
+| G   | hosťa    | **hostí**\\hosťov | človeka            | ľudí   |
+| D   | hosťovi  | hosťom            | človekovi\\človeku | ľuďom  |
+| A   | hosťa    | **hostí**\\hosťov | človeka            | ľudí   |
+| L   | hosťovi  | hosťoch           | človekovi\\človeku | ľuďoch |
+| I   | hosťom   | hosťami           | človekom           | luďmi  |
+
+V množnom čísle v genitíve a akuzatíve môže byť slovo „hosť“ v tvare „hosťov“, ale nie je to frekventovaný.
 
 > V množnom čísle sa tvarotvorný základ mení nevýrazne:<br>
 > `d` &rarr; `ď`: sused &rarr; susedia [suseďia]<br>
 > `t` &rarr; `ť`: brat &rarr; bratia [braťia]<br>
 > `l` &rarr; `ľ`: manžel &rarr; manželia [manžeľia]<br>
+
+### 2.podvzor druh
+
+|     | Singulár | Plurál      |
+| --- | -------- | ----------- |
+| N   | druh     | druhovia \* |
+| G   | druha    | druhov      |
+| D   | druhovi  | druhom      |
+| A   | druha    | druhov      |
+| L   | druhovi  | druhoch     |
+| I   | druhom   | druhmi      |
+
+Patria sem:
+
+- podstatné mená cudzieho pôvodu: archeológ, samuraj, chirurg.
+
+### 3.podvzor dedko
+
+|     | Singulár | Plurál      |
+| --- | -------- | ----------- |
+| N   | dedko    | dedkovia \* |
+| G   | dedka    | dedkov      |
+| D   | dedkovi  | dedkom      |
+| A   | dedka    | dedkov      |
+| L   | dedkovi  | dedkoch     |
+| I   | dedkom   | dedkami \*  |
+
+> V jednotnom čísle koncovky zhodujú so vzorom *chlap*.<br>
+> V množnom čísle koncovky zhodujú so vzorom *hrdina*.
+
+Patria sem:
+
+- podstatné mená zakončené na -`o`: tatk**o**, maestr**o**, oc**o**
+
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
