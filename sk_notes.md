@@ -317,6 +317,56 @@ Patria sem:
 
 - podstatné mená zakončené na -`ita`: band**ita**, jezu**ita**, metropol**ita**.
 
+## Mužský rod, neživotný tvrdý
+
+### Vzor dub
+
+|     | Singulár | Plurál |
+| --- | -------- | ------ |
+| N   | dub      | duby   |
+| G   | duba     | dubov  |
+| D   | dubu     | dubom  |
+| A   | dub      | duby   |
+| L   | dube     | duboch |
+| I   | dubom    | dubmi  |
+
+Patria sem:
+
+- podstatné mená zakončené na tvrdú/obojakú spoluhlásku: obe**d**, veče**r**, proceso**r**.
+- len v množnom čísle zvieracie podstatné mená zakončené na tvrdú/obojakú spoluhlásku: slo**n**, le**v**, ha**d**.
+
+#### 1.podvzor hlad
+
+|     | Singulár | Plurál  |
+| --- | -------- | ------- |
+| N   | hlad     | hlady   |
+| G   | hladu \* | hladov  |
+| D   | hladu    | hladom  |
+| A   | hlad     | hlady   |
+| L   | hlade    | hladoch |
+| I   | hladom   | hladmi  |
+
+Patria sem:
+
+- podstatné mená zakončené najmä na -`b`, -`d`, -`t`, -`n`, -`r`, -`s`, -`x`, -`z`: fa**x**, koncer**t**, štá**t**.<br>
+(Ale aj: futbal, golf)
+- podstatné mená utvorené zo slovies: sad, výraz, prístav.
+
+#### 2.podvzor džem
+
+|     | Singulár | Plurál     |
+| --- | -------- | ---------- |
+| N   | džem     | džemy      |
+| G   | džemu \* | džemov     |
+| D   | džemu    | džemom     |
+| A   | džem     | džemy      |
+| L   | džeme    | džemoch    |
+| I   | džemom   | džemami \* | 
+
+Patria sem:
+
+- podstatné mená bez slovotvornej prípony: ekzém, gram, nerv, zips.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
@@ -325,3 +375,4 @@ Patria sem:
 | A   |  |  |
 | L   |  |  |
 | I   |  |  |
+
