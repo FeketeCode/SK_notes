@@ -370,6 +370,40 @@ Patria sem:
 
 - podstatné mená zakončené na -`m`, -`izmus`, -`azmus`, -`mus`, -`mos`, -`us`, -`os`: dada**izmus**, algorit**mus**, ryt**mus**, koz**mos**.
 
+#### 3.podvzor rybník
+
+|     | Singulár   | Plurál    |
+| --- | ---------- | --------- |
+| N   | rybník     | rybníky   |
+| G   | rybníka    | rybníkov  |
+| D   | rybníku    | rybníkom  |
+| A   | rybník     | rybník    |
+| L   | rybníku \* | rybníkoch |
+| I   | rybníkom   | rybníkmi  |
+
+Patria sem:
+
+- najmä slová domáceho pôvodu, konkréta, zdrobneniny a slovánske toponymá: dáždnik, jazyk, kľúčik, Rakovník.
+- tvarotvorný základ je zakončený na (jednu) veláru -`k` (`-ík`, -`ek`, -`ák`), -`g`, -`h`, -`ch`: sklen**ík**, bato**h**, panel**ák**.
+
+#### 4.podvzor roh
+
+|     | Singulár | Plurál |
+| --- | -------- | ------ |
+| N   | roh      | rohy   |
+| G   | rohu \*  | rohov  |
+| D   | rohu     | rohom  |
+| A   | roh      | rohy   |
+| L   | rohu \*  | rohoch |
+| I   | rohom    | rohmi  |
+
+Patria sem:
+
+- najmä slová domáceho pôvodu, abstraktá, materiáliá, kolektíva: strach, návrh, bank.
+- tvarotvorný základ je zakončený na (jednu) veláru -`k` (najčastejšie), -`g`, -`h`, -`ch`: biľo**g**, sne**h**, rozma**ch**, cesna**k**.
+- tvarotvorný základ je zakončený kombináciou sonóry a velárneho konsonantu: dabi**ng**, difto**ng**, huria**vk**, katafa**lk**.
+- typické komponenty v kompozitách: -`lóg`, -`ftong`, -`ing`, -`burg`, -`borg`, -`berg`, -`ng`: mono**lóg**, mono**ftong**, trén**ing**, mít**ing**, Pek**ing**, Peters**burg**, Meko**ng**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
