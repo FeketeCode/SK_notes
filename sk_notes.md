@@ -332,8 +332,10 @@ Patria sem:
 
 Patria sem:
 
-- podstatné mená zakončené na tvrdú/obojakú spoluhlásku: obe**d**, veče**r**, proceso**r**.
+- najmä podstatné mená domáceho pôvodu, počítateľné konkréta a pomenovanie miesta: stôl, zub, kravín, les.
+- podstatné mená zakončené na -`b`, -`d`, -`l`, -`n`, -`p`, -`r`, -`s`, -`t`, -`v`, -`z`: chlie**b**, obe**d**, domo**v**, le**s**.
 - len v množnom čísle zvieracie podstatné mená zakončené na tvrdú/obojakú spoluhlásku: slo**n**, le**v**, ha**d**.
+- bežné sufixy: -`or`, -`átor`, -`ón`, -`ent`, -`ant`, -`ov`, -`ev`, -`ín`: mot**or**, trab**ant**, lampi**ón**, gener**átor**, kur**ín**.
 
 #### 1.podvzor hlad
 
@@ -348,9 +350,10 @@ Patria sem:
 
 Patria sem:
 
-- podstatné mená zakončené najmä na -`b`, -`d`, -`t`, -`n`, -`r`, -`s`, -`x`, -`z`: fa**x**, koncer**t**, štá**t**.<br>
-(Ale aj: futbal, golf)
-- podstatné mená utvorené zo slovies: sad, výraz, prístav.
+- podstatné mená domáceho, ale predovšetkým cudzieho pôvodu: interval, nominatív, rod. 
+- najmä abstraktá, materiála a kolektíva: jav, alkohol, hodváb, dav, hmyz.
+- podstatné mená zakončené najmä na -`b`, -`d`, -`f`,-`l`, -`n`, -`p`, -`r`, -`s`, -`t`, -`v`, -`x`, -`z`: fa**x**, koncer**t**, štá**t**.
+- bežné koncové kombinácie: -`st`, -`št`, -`zd`, -`ks/x`, -`kt`, -`pt`, -`ps`, -`ft`: zája**zd**, kontra**kt**.
 
 #### 2.podvzor džem
 
@@ -365,7 +368,7 @@ Patria sem:
 
 Patria sem:
 
-- podstatné mená bez slovotvornej prípony: ekzém, gram, nerv, zips.
+- podstatné mená zakončené na -`m`, -`izmus`, -`azmus`, -`mus`, -`mos`, -`us`, -`os`: dada**izmus**, algorit**mus**, ryt**mus**, koz**mos**.
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
