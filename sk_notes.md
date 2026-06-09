@@ -39,6 +39,9 @@
 
 > V domácich slovách po tvrdej spoluhláske píšeme *y*, po mäkkej spoluhlásky *i*, po obojakej *y* aj *i* (podľa **vybraných slov**).
 
+Sonóry: `m`, `n`, `ň`, `l`, `ľ`, `r`, `j`, `v`<br>
+Velárne konsonanty: `k`, `g`, `h`, `ch`
+
 #### Znelosť - Neznelosť
 
 |         | Párové                   | Nepárové              |
