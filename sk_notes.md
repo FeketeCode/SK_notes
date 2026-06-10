@@ -407,6 +407,38 @@ Patria sem:
 - tvarotvorný základ je zakončený kombináciou sonóry a velárneho konsonantu: dabi**ng**, difto**ng**, huria**vk**, katafa**lk**.
 - typické komponenty v kompozitách: -`lóg`, -`ftong`, -`ing`, -`burg`, -`borg`, -`berg`, -`ng`: mono**lóg**, mono**ftong**, trén**ing**, mít**ing**, Pek**ing**, Peters**burg**, Meko**ng**.
 
+#### 5.podvzor výsledok
+
+|     | Singulár    | Plurál        |
+| --- | ----------- | ------------- |
+| N   | výsledok    | výsledky      |
+| G   | výsledku \* | výsledkov     |
+| D   | výsledku    | výsledkom     |
+| A   | výsledok    | výsledky      |
+| L   | výsledku \* | výsledkoch    |
+| I   | výsledkom   | výsledkami \* |
+
+Patria sem:
+
+- podobné ako podvzor `roh`, ale zároveň dochádza k vypúšťaniu pohyblivého -`o` alebo -`e`: moz**o**g, začiat**o**k, poplat**o**k.
+- najbežnejšia koncovka je -`ok`: pozem**ok**, pies**ok**, nábyt**ok**.
+
+#### 6.podvzor tunel
+
+|     | Singulár  | Plurál   |
+| --- | --------- | -------- |
+| N   | tunel     | tunely   |
+| G   | tunela    | tunelov  |
+| D   | tunelu    | tunelom  |
+| A   | tunel     | tunely   |
+| L   | tuneli \* | tuneloch |
+| I   | tunelom   | tunelmi  |
+
+Patria sem:
+
+- podstatné mená cudzieho pôvodu zakončené najmä na -`el`, -`íl`, -`ál`, -`er`, -`ér`, -`ír`: serv**er**, mis**ál**, apr**íl**, klav**ír**, cirkumzenit**ál**, adapt**ér**, hot**el**. <br>
+ALE aj: jún, júl.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
