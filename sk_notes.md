@@ -338,7 +338,7 @@ Patria sem:
 - najmä podstatné mená domáceho pôvodu, počítateľné konkréta a pomenovanie miesta: stôl, zub, kravín, les.
 - podstatné mená zakončené na -`b`, -`d`, -`l`, -`n`, -`p`, -`r`, -`s`, -`t`, -`v`, -`z`: chlie**b**, obe**d**, domo**v**, le**s**.
 - len v množnom čísle zvieracie podstatné mená zakončené na tvrdú/obojakú spoluhlásku: slo**n**, le**v**, ha**d**.
-- bežné sufixy: -`or`, -`átor`, -`ón`, -`ent`, -`ant`, -`ov`, -`ev`, -`ín`: mot**or**, trab**ant**, lampi**ón**, gener**átor**, kur**ín**.
+- bežné sufixy sú -`or`, -`átor`, -`ón`, -`ent`, -`ant`, -`ov`, -`ev`, -`ín`: mot**or**, trab**ant**, lampi**ón**, gener**átor**, kur**ín**.
 
 #### 1.podvzor hlad
 
@@ -356,7 +356,7 @@ Patria sem:
 - podstatné mená domáceho, ale predovšetkým cudzieho pôvodu: interval, nominatív, rod. 
 - najmä abstraktá, materiála a kolektíva: jav, alkohol, hodváb, dav, hmyz.
 - podstatné mená zakončené najmä na -`b`, -`d`, -`f`,-`l`, -`n`, -`p`, -`r`, -`s`, -`t`, -`v`, -`x`, -`z`: fa**x**, koncer**t**, štá**t**.
-- bežné koncové kombinácie: -`st`, -`št`, -`zd`, -`ks/x`, -`kt`, -`pt`, -`ps`, -`ft`: zája**zd**, kontra**kt**.
+- bežné koncové kombinácie sú -`st`, -`št`, -`zd`, -`ks/x`, -`kt`, -`pt`, -`ps`, -`ft`: zája**zd**, kontra**kt**.
 
 #### 2.podvzor džem
 
@@ -423,7 +423,23 @@ Patria sem:
 - podobné ako podvzor `roh`, ale zároveň dochádza k vypúšťaniu pohyblivého -`o` alebo -`e`: moz**o**g, začiat**o**k, poplat**o**k.
 - najbežnejšia koncovka je -`ok`: pozem**ok**, pies**ok**, nábyt**ok**.
 
-#### 6.podvzor tunel
+#### 6.podvzor materiál
+
+|     | Singulár     | Plurál      |
+| --- | ------------ | ----------- |
+| N   | materiál     | materiály   |
+| G   | materiálu \* | materiálov  |
+| D   | materiálu    | materiálom  |
+| A   | materiál     | materiály   |
+| L   | materiáli \* | materiáloch |
+| I   | materiálom   | materiálmi  |
+
+Patria sem:
+
+- prevzaté abstraktá, materiáliá a kolektíva: arzenál, exteriér, karamel, Brusel.
+- bežné koncovky sú -`el`, -`ál`, -`er`, -`ér`: lok**ál**, person**ál**, mod**el**, softv**ér**, bundeswehr [bundesv**ér**].
+
+#### 7.podvzor tunel
 
 |     | Singulár  | Plurál   |
 | --- | --------- | -------- |
@@ -436,7 +452,7 @@ Patria sem:
 
 Patria sem:
 
-- podstatné mená cudzieho pôvodu zakončené najmä na -`el`, -`íl`, -`ál`, -`er`, -`ér`, -`ír`: serv**er**, mis**ál**, apr**íl**, klav**ír**, cirkumzenit**ál**, adapt**ér**, hot**el**. <br>
+- počítateľné konkréta cudzieho pôvodu zakončené najmä na -`el`, -`íl`, -`ál`, -`er`, -`ér`, -`ír`: serv**er**, mis**ál**, apr**íl**, klav**ír**, cirkumzenit**ál**, adapt**ér**, hot**el**. <br>
 ALE aj: jún, júl.
 
 |     | Singulár | Plurál |
