@@ -187,6 +187,19 @@ Iba v mužskom rode! Životné podstatné mená mužského rodu (ž.m.r.) označ
 
 ## Mužský rod, životný
 
+**Inštrumentál množného čísla -mi/-ami**
+
+Koncovka -`ami` sa bežne použije, keď sa podstatné mená v nominatíve jednotného čísla končia na:
+
+- `m`: stro**m**, šer**m**, pokr**m**
+- `us`: organizm**us**, optimizm**us**
+- `o`: uj**o**, ktrk**o**, ock**o**
+
+Ale:
+
+- -`ami` je bežné, keď sa v tvare nominatívu vyskytuje pohyblivé `e`, `o`, `á`, `ie`: kop**e**c, oc**o**t, chrb**á**t, hrn**ie**c
+- -`mi` je bežné, ak je slovo zakončené na -`nt`, -`nd`, -`kt`, -`rd`, -`rt`: dokume**nt**, fa**kt**, akko**rd**, konce**rt**
+
 > Odteraz bude symbol * v tabule označovať, v ktorom prípade sa podvzor líši od vzoru.
 
 ### Vzor chlap
