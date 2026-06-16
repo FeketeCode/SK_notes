@@ -44,7 +44,7 @@ Velárne konsonanty: `k`, `g`, `h`, `ch`
 
 #### Znelosť - Neznelosť
 
-|         | Párové                   | Nepárové              |
+|         | Párové (šumové)          | Nepárové              |
 | :-----: | :----------------------- | :-------------------: |
 | Znelé   | `b d ď g v z ž h  dz dž` | `m n ň j l ĺ ľ r ŕ j` |
 | Neznelé | `p t ť k f s š ch c  č`  |                       |
@@ -487,6 +487,40 @@ Patria sem:
 - podstatné mená zakončené na mäkké spoluhlásky alebo na -`r`: mesia**c**, klú**č**, spray, [spre**j**], nô**ž**, komentá**r**.
 - bežné sufixy: -`ač/ovač`, -`áč`, -`ič`, -`ár`, -`er`, -`iar`, -`ier`: vysáv**ač**, dsek**áč**, chlad**ič**, ol**ár**, janu**ár**, koč**iar**, pap**ier**.
 - len v množnom čísle zvieracie podstatné mená zakončené na mäkké spoluhlásky: kô**ň**, medve**ď**.
+
+#### 1.podvzor palec
+
+|     | Singulár | Plurál     |
+| --- | -------- | ---------- |
+| N   | palec    | palce      |
+| G   | palca    | palcov     |
+| D   | palcu    | palcom     |
+| A   | palec    | palce      |
+| L   | palci    | palcoch    |
+| I   | palcom   | palcami \* |
+
+Patria sem:
+
+- najmä podstatné mená domáceho pôvodu, alebo s domácou morfológou: koniec, týždeň, rámec.
+- najčastejšie sufixy alebo zakončenie sú -`ec/c`, -`er/r`, -`eň/ň`, -`or/r`, -`el/l`, -`eľ/ľ`: tan**ec**, lit**er**, decemb**er**, týžd**eň**, kuf**or**, bycik**el**, šmirg**eľ**.
+- dochádza k vypúšťaniu pohyblivé `o` alebo `e`: kuf**o**r, šiat**o**r, kalib**e**r, káb**e**l.
+
+#### 2.podvzor čaj
+
+|     | Singulár | Plurál |
+| --- | -------- | -------|
+| N   | čaj      | čaje   |
+| G   | čaju \*  | čajov  |
+| D   | čaju     | čajom  |
+| A   | čaj      | čajov  |
+| L   | čaji     | čajoch |
+| I   | čajom    | čajmi  |
+
+Patria sem:
+
+- najmä abstraktá, prevzaté substantíva, materiáliá: žiaľ, flash [fleš], lekvár.
+- bežné zakončenie sú -`c`, -`č`, -`dž`, -`j`, -`ľ`, -`r`, -`š`, -`ž`: fil**c**, ske**č**, bri**dž**, Cambridge [kembri**dž**], ta**j**, ošia**ľ**, mie**r**, požia**r**, ply**š**, rú**ž**.
+- prevzaté viacslabičné tvarotvorné základy sú zakončené aj kombináciou sonóry a šumové konsonanty: dišta**nc**, reva**nš**.
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
