@@ -468,6 +468,26 @@ Patria sem:
 - počítateľné konkréta cudzieho pôvodu zakončené najmä na -`el`, -`íl`, -`ál`, -`er`, -`ér`, -`ír`: serv**er**, mis**ál**, apr**íl**, klav**ír**, cirkumzenit**ál**, adapt**ér**, hot**el**. <br>
 ALE aj: jún, júl.
 
+## Mužský rod, neživotný mäkký
+
+### Vzor stroj
+
+|     | Singulár | Plurál   |
+| --- | -------- | -------- |
+| N   | stroj    | stroje   |
+| G   | stroja   | strojov  |
+| D   | stroju   | strojom  |
+| A   | stroj    | stroje   |
+| L   | stroji   | strojoch |
+| I   | strojom  | strojmi  |
+
+Patria sem:
+
+- konkréta, nepravné abstraktá a toponymá.
+- podstatné mená zakončené na mäkké spoluhlásky alebo na -`r`: mesia**c**, klú**č**, spray, [spre**j**], nô**ž**, komentá**r**.
+- bežné sufixy: -`ač/ovač`, -`áč`, -`ič`, -`ár`, -`er`, -`iar`, -`ier`: vysáv**ač**, dsek**áč**, chlad**ič**, ol**ár**, janu**ár**, koč**iar**, pap**ier**.
+- len v množnom čísle zvieracie podstatné mená zakončené na mäkké spoluhlásky: kô**ň**, medve**ď**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
