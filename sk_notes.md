@@ -522,6 +522,24 @@ Patria sem:
 - bežné zakončenie sú -`c`, -`č`, -`dž`, -`j`, -`ľ`, -`r`, -`š`, -`ž`: fil**c**, ske**č**, bri**dž**, Cambridge [kembri**dž**], ta**j**, ošia**ľ**, mie**r**, požia**r**, ply**š**, rú**ž**.
 - prevzaté viacslabičné tvarotvorné základy sú zakončené aj kombináciou sonóry a šumové konsonanty: dišta**nc**, reva**nš**.
 
+#### 3.podvzor manéver
+
+|     | Singulár   | Plurál       |
+| --- | ---------- | ------------ |
+| N   | manéver    | manévre      |
+| G   | manévru \* | manévrov     |
+| D   | manévru    | manévrom     |
+| A   | manéver    | manévre      |
+| L   | manévri    | manévroch    |
+| I   | manévrom   | manévrami \* |
+
+Patria sem:
+
+- abstraktá, materiáliá a prevzaté slová: žáner, marš, kaliber.
+- podstatné mená zakončené na tri spoluhlásky a ktorých zakončenie je nekompatibilné s koncovkou -`mi`: bo**ršč**.
+- dochádza k vypúštaniu pohyblivé -o alebo -e: alabast**e**r, kôp**o**r.
+- najčastejšie zakončenie sú -`er`, -`el`, -`or`: púd**er**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
