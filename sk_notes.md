@@ -559,14 +559,14 @@ Zvieracie podstatné mená cudzieho pôvodu sa skloňujú podľa vzoru *kuli*.
 | L   | psovi \| medveďovi \| hadovi | psoch \| medveďoch \| hadoch |
 | I   | psom  \| medveďom  \| hadom  | psami \| medveďmi  \| hadmi  |
 
-|     | Singulár       | Plurál<br>(dlaň [neživ.] \| stroj [neživ.] \| chlap [živ.]) |
+|     | Singulár       | Plurál<br>(dlaň [neživ.] \\ stroj [neživ.] \\ chlap [živ.]) |
 | --- | -------------- | ----------------------------------------------------------- |
-| N   | kôň            | `-    \| kone   \| -`                                       |
-| G   | koňa           | `koní \| -      \| koňov`                                   |
-| D   | koňovi         | `-    \| koňom  \| -`                                       |
-| A   | koňa           | `-    \| kone   \| koňov`                                   |
-| L   | koňovi\\koni   | `-    \| koňoch \| -`                                       |
-| I   | koňom          | `-    \| koňmi  \| -`                                       |
+| N   | kôň            | -    \\ kone   \\ -                                         |
+| G   | koňa           | koní \\ -      \\ koňov                                     |
+| D   | koňovi         | -    \\ koňom  \\ -                                         |
+| A   | koňa           | -    \\ kone   \\ koňov                                     |
+| L   | koňovi\\koni   | -    \\ koňoch \\ -                                         |
+| I   | koňom          | -    \\ koňmi  \\ -                                         |
 
 ### Zosobňovanie
 
