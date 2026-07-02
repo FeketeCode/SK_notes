@@ -540,6 +540,55 @@ Patria sem:
 - dochádza k vypúštaniu pohyblivé -o alebo -e: alabast**e**r, kôp**o**r.
 - najčastejšie zakončenie sú -`er`, -`el`, -`or`: púd**er**.
 
+## Zvieracie podstatné mená
+
+V jednotnom čísle skloňuje podľa vzoru *chlap* (príklad *pes*).<br>
+V množnom čísle:
+
+- s tvrdými koncami podľa vzoru *dub* (príklad *had*).
+- s mäkkými koncami podľa vzoru *stroj* (príklad *medveď*)
+
+Zvieracie podstatné mená cudzieho pôvodu sa skloňujú podľa vzoru *kuli*.
+
+|     | Singulár                     | Plurál                       |
+| --- | ---------------------------- | ---------------------------- |
+| N   | pes   \| medveď    \| had    | psy   \| medvede   \| hady   |
+| G   | psa   \| medveďa   \| hada   | psov  \| medveďov  \| hadov  |
+| D   | psovi \| medveďovi \| hadovi | psom  \| medveďom  \| hadom  |
+| A   | psa   \| medveďa   \| hada   | psy   \| medvede   \| hadov  |
+| L   | psovi \| medveďovi \| hadovi | psoch \| medveďoch \| hadoch |
+| I   | psom  \| medveďom  \| hadom  | psami \| medveďmi  \| hadmi  |
+
+|     | Singulár       | Plurál<br>(dlaň [neživ.] \| stroj [neživ.] \| chlap [živ.]) |
+| --- | -------------- | ----------------------------------------------------------- |
+| N   | kôň            | `-    \| kone   \| -`                                       |
+| G   | koňa           | `koní \| -      \| koňov`                                   |
+| D   | koňovi         | `-    \| koňom  \| -`                                       |
+| A   | koňa           | `-    \| kone   \| koňov`                                   |
+| L   | koňovi\\koni   | `-    \| koňoch \| -`                                       |
+| I   | koňom          | `-    \| koňmi  \| -`                                       |
+
+### Zosobňovanie
+
+Pri zosobňovaní sa skloňujú podľa vzoru *chlap* aj v množnom čísle.
+
+|     | Plurál                       |
+| --- | ---------------------------- |
+| N   | psi   \| medvedi   \| hadi   |
+| G   | psov  \| medveďov  \| hadov  |
+| D   | psom  \| medveďom  \| hadom  |
+| A   | psov  \| medveďov  \| hadov  |
+| L   | psoch \| medveďoch \| hadoch |
+| I   | psami \| medveďmi  \| hadmi  |
+
+Podstatné a prídavné mená musia byť v zhode!<br>
+Napr.: zúrivé psy - zúriví psi; Medvedi (klub) piatykrát zvíťazili. - Jano a Fero sú hadi.
+
+### Porovnávanie
+
+Pri porovnávaní sa skloňujú podľa vzoru *dub* a *stroj*, a životné skloňovanie nie je možné!<br>
+Napr.: Sú zúriví ako medvede. Sú rýchli ako sumce. Sú chudí ako pavúky.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
