@@ -603,6 +603,50 @@ Napr.: zúrivé psy - zúriví psi; Medvedi (klub) piatykrát zvíťazili. - Jan
 Pri porovnávaní sa skloňujú podľa vzoru *dub* a *stroj*, a životné skloňovanie nie je možné!<br>
 Napr.: Sú zúriví ako medvede. Sú rýchli ako sumce. Sú chudí ako pavúky.
 
+## Ženský rod, tvrdý
+
+Kmeň sa končí na tvrdú/obojakú spoluhlásku, výnimočne na samohlásku.
+
+### Vzor žena
+
+|     | Singulár | Plurál |
+| --- | -------- | ------ |
+| N   | žena     | ženy   |
+| G   | ženy     | žien   |
+| D   | žene     | ženám  |
+| A   | ženu     | ženy   |
+| L   | žene     | ženách |
+| I   | ženou    | ženami |
+
+Patria sem:
+
+- podstatné mená, ktorých kmeň sa končí na tvrdú/obojakú spoluhlásku (pred -`a` je tvrdá/obojaká spoluhláska): mač**k**a, hla**v**a.
+- pomnožné podstatné mená, ktorých základ je zakončený na tvrdú spoluhlásku: novi**n**y, krsti**n**y, hodin**k**y, raňaj**k**y.
+
+Je charakteristická zmena kvantity kmeňovej samohlásky a vkladanie samohlásky v genitíve množného čísla.
+
+| Zmena kvantity     |                                                          |
+| ------------------ | -------------------------------------------------------- |
+| `a` &rarr; `á`     | git**a**ra &rarr; git**á**r, b**a**nka &rarr; b**á**nk   |
+| `a` &rarr; `ia`    | ž**a**ba &rarr; ž**ia**b                                 |
+| `i` &rarr; `í`     | v**i**la &rarr; v**í**l, ž**i**la &rarr; ž**í**l         |
+| `e` &rarr; `ie`    | sus**e**da &rarr; sus**ie**d, c**e**sta &rarr; c**ie**st |
+| `o` &rarr; `ô`     | jah**o**da &rarr; jah**ô**d, b**o**mba &rarr; b**ô**mb   |
+| `u` &rarr; `ú`     | sek**u**nda &rarr; sek**ú**nd, b**u**rza &rarr; b**ú**rz |
+| `y` &rarr; `ý`     | ch**y**ba &rarr; ch**ý**b                                |
+| `l` &rarr; `ĺ`     | v**l**na &rarr; v**ĺ**n, s**l**z &rarr; s**ĺ**z          |
+| `r` &rarr; `ŕ`     | b**r**zda &rarr; b**ŕ**zd, sp**r**cha &rarr; sp**ŕ**ch   |
+
+Pri slovách s kumuláciou dvoch spoluhlások vkladáme pred spoluhlásky nasledujúce samohlásky.
+
+| Vkladanie samohlások   |                                                                      |
+| ---------------------- | -------------------------------------------------------------------- |
+| -`ie`-                 | učiteľka &rarr; učitel**ie**k, hmla &rarr; hm**ie**l                 |
+| -`o`-                  | kamarátka &rarr; kamarát**o**k, látka &rarr; lát**o**k               |
+| -`ie`/`ô`-             | jamka &rarr; jam**ie**k/jam**ô**k                                    |
+| -`ie`/`á`-             | ihla &rarr; ih**ie**l/ih**á**l, kvapka &rarr; kvap**ie**k/kvap**á**k |
+| -`ie`/`e`-             | výzva &rarr; výz**ie**v/výz**e**v, výhra &rarr; výh**ie**r/výh**e**r |
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
