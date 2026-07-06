@@ -537,7 +537,7 @@ Patria sem:
 
 - abstraktá, materiáliá a prevzaté slová: žáner, marš, kaliber.
 - podstatné mená zakončené na tri spoluhlásky a ktorých zakončenie je nekompatibilné s koncovkou -`mi`: bo**ršč**.
-- dochádza k vypúštaniu pohyblivé -o alebo -e: alabast**e**r, kôp**o**r.
+- dochádza k vypúštaniu pohyblivé -`o` alebo -`e`: alabast**e**r, kôp**o**r.
 - najčastejšie zakončenie sú -`er`, -`el`, -`or`: púd**er**.
 
 ## Zvieracie podstatné mená
@@ -567,6 +567,20 @@ Zvieracie podstatné mená cudzieho pôvodu sa skloňujú podľa vzoru *kuli*.
 | A   | koňa           | -    \\ kone   \\ koňov                                     |
 | L   | koňovi\\koni   | -    \\ koňoch \\ -                                         |
 | I   | koňom          | -    \\ koňmi  \\ -                                         |
+
+### Podvzory vzoru had a vzoru medveď
+
+|     | Singulár           | Plurál             |
+| --- | ------------------ | ------------------ |
+| N   | orol   \| dravec   | orly   \| dravce   |
+| G   | orla   \| dravca   | orlov  \| dravcov  |
+| D   | orlovi \| dravcovi | orlom  \| dravcom  |
+| A   | orla   \| dravca   | orly   \| dravce   |
+| L   | orlovi \| dravcovi | orloch \| dravcoch |
+| I   | orlom  \| dravcom  | orlami \| dravcami |
+
+*orol* je podvzorom vzoru *had*. Patria sem slová so zakončením s pohyblivým vokálom na -`ok`/-`k`, -`ek`/-`k`, -`or`/-`r`, -`ol`/`-l`, -`es`/-`s`: dud**ok**, svrč**ek**, bob**or**, os**ol**.<br>
+*dravec* je podvzorom vzoru *medveď*. Patria sem slová so zakončením s pohyblivým -`e` na -`ec`/-`c`, -`eľ`/-`ľ`, -`el`/-`l`, -`eň`/-`ň`, -`er`/-`r`: cicav**ec**, sys**eľ**, bíg**el**, srš**eň**, tig**er**.
 
 ### Zosobňovanie
 
