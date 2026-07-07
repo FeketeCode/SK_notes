@@ -647,6 +647,51 @@ Pri slovách s kumuláciou dvoch spoluhlások vkladáme pred spoluhlásky nasled
 | -`ie`/`á`-             | ihla &rarr; ih**ie**l/ih**á**l, kvapka &rarr; kvap**ie**k/kvap**á**k |
 | -`ie`/`e`-             | výzva &rarr; výz**ie**v/výz**e**v, výhra &rarr; výh**ie**r/výh**e**r |
 
+## Ženský rod, mäkký
+
+Kmeň sa zvyčajne končí na mäkkú, niekedy na obojakú spluhlásku.
+
+### Vzor ulica
+
+|     | Singulár | Plurál   |
+| --- | -------- | -------- |
+| N   | ulica    | ulice    |
+| G   | ulice    | ulíc     |
+| D   | ulici    | uliciam  |
+| A   | ulicu    | ulice    |
+| L   | ulici    | uliciach |
+| I   | ulicou   | ulicami  |
+
+Patria sem:
+
+- podstatné mená, ktorých kmeň sa končí na mäkkú spoluhlásku (pred -`a` je najmä mäkká spoluhláska): tekvi**c**a, papu**č**a, brosky**ň**a.
+- pomnožné podstatné mená, ktorých základ je zakončený na mäkkú spoluhlásku: nohavi**c**e, Viano**c**e.
+
+Je charakteristická zmena kvantity kmeňovej samohlásky v genitíve množného čísla.
+
+| Zmena kvantity  |                                                                  |
+| --------------- | ---------------------------------------------------------------- |
+| `i` &rarr; `í`  | op**i**ca &rarr; op**í**c, skr**i**ňa &rarr; skr**í**ň           |
+| `y` &rarr; `ý`  | koleg**y**ňa &rarr; koleg**ý**ň, kuch**y**ňa &rarr; kuch**ý**ň   |
+| `u` &rarr; `ú`  | pap**u**ča &rarr; pap**ú**č, tab**u**ľa &rarr; tab**ú**ľ         |
+| `o` &rarr; `ô`  | h**o**ľa &rarr; h**ô**ľ/holí, hom**o**ľa &rarr; hom**ô**ľ/homolí |
+| `e` &rarr; `ie` | koš**e**ľa &rarr; koš**ie**ľ, ned**e**ľa &rarr; ned**ie**ľ       |
+
+#### 1.podvzor práca
+
+|     | Singulár | Plurál     |
+| --- | -------- | ---------- |
+| N   | práca    | práce      |
+| G   | práce    | prác       |
+| D   | práci    | prácam \*  |
+| A   | prácu    | práce      |
+| L   | práci    | prácach \* |
+| I   | prácou   | prácami    |
+
+Patria sem:
+
+- podstatné mená, ktorých posledná slabika tvarotvorného základu je už dlhá: m**í**ľa, skr**ý**ša.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
