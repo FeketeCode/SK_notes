@@ -692,6 +692,54 @@ Patria sem:
 
 - podstatné mená, ktorých posledná slabika tvarotvorného základu je už dlhá: m**í**ľa, skr**ý**ša.
 
+#### 2.podvzor agresia
+
+|     | Singulár | Plurál     |
+| --- | -------- | ---------- |
+| N   | agresia  | agresie    |
+| G   | agresie  | agresií \* |
+| D   | agresii  | agresiám   |
+| A   | agresiu  | agresie    |
+| L   | agresii  | agresiách  |
+| I   | agresiou | agresiami  |
+
+Patria sem:
+
+- prevzaté podstatné mená zakončené zvyčajne na -`ia` alebo na -`ya`: bibl**ia**, depres**ia**, informác**ia**, harp**ya**.
+
+#### 3.podvzor studňa
+
+|     | Singulár | Plurál    |
+| --- | -------- | --------- |
+| N   | studňa   | studne    |
+| G   | studne   | studní \* |
+| D   | studni   | studniam  |
+| A   | studňu   | studne    |
+| L   | studni   | studniach |
+| I   | studňou  | studňami  |
+
+Patria sem:
+
+- jednotné a pomnožné podstatné mená, najmä domáceho pôvodu, ktorých posledná slabika tvarotvorného základu je krátka a dve spoluhlásky prechádzajú koncovke -`a`: br**yndz**a, m**inc**a, j**edľ**a, h**usl**e, r**ifl**e.
+- podstatné mená, ktorých pred koncovkou je jeden mäkký konsonant -`ď`-, -`dz`-, -`ľ`-, -`ň`-, -`r`-, -`š`-, -`ť`- a vokál -`a`-, -`e`-, -`o`-: k**aď**a, b**aň**a, p**aš**a, dv**er**e, več**er**a.
+
+#### 4.podvzor dielňa
+
+|     | Singulár | Plurál      |
+| --- | -------- | ----------- |
+| N   | dielňa   | dielne      |
+| G   | dielne   | dielní \*   |
+| D   | dielni   | dielňam \*  |
+| A   | dielňu   | dielne      |
+| L   | dielni   | dielňach \* |
+| I   | dielňou  | dielňami    |
+
+Patria sem:
+
+- jednotné a pomnožné podstatné mená, ktorých posledná slabika tvarotvorného základu je dlhá a dve spoluhlásky prechádzajú koncovke: k**iahn**e.
+- podstatné mená, ktorých posledná slabika tvarotvorného základu je dlhá a končí na -`dz`, -`ž`, -`ľ`, -`ň`: sch**ôdz**a, v**ôň**a, tv**ŕdz**a.
+- podstatné mená, ktorých tvarotvorný základ končí na -`j`: só**j**a, ši**j**a, zmi**j**a.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
