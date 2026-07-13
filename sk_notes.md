@@ -740,6 +740,33 @@ Patria sem:
 - podstatné mená, ktorých posledná slabika tvarotvorného základu je dlhá a končí na -`dz`, -`ž`, -`ľ`, -`ň`: sch**ôdz**a, v**ôň**a, tv**ŕdz**a.
 - podstatné mená, ktorých tvarotvorný základ končí na -`j`: só**j**a, ši**j**a, zmi**j**a.
 
+### Vzor dlaň
+
+|     | Singulár | Plurál   |
+| --- | -------- | -------- |
+| N   | dlaň     | dlane    |
+| G   | dlane    | dlaní    |
+| D   | dlani    | dlaniam  |
+| A   | dlaň     | dlane    |
+| L   | dlani    | dlaniach |
+| I   | dlaňou   | dlaňami  |
+
+Patria sem:
+
+- Neosobné podstatné mená (okrem neter), hlavne počítateľné konkréty, ale zriedkavo aj nepravé abstraktá (abstraktné podstatné mená, ktoré správajú ako počítateľné, konkrétne mená) zakončené na mäkké, výnimočne na iné spoluhlásky:
+    - `c`: obe**c**, pe**c**
+    - `č`: žl**č**, tla**č** 
+    - `ď`: lo**ď**, hru**ď**, Sere**ď**
+    - `ľ`: pišto**ľ**, oce**ľ**
+    - `m`: ze**m**
+    - `ň`: jese**ň**, úrove**ň**, Plze**ň**
+    - `r`: nete**r**
+    - `x` (ks): pra**x**, synta**x**
+    - `š`: rešer**š**, falo**š**
+    - `ť`: obe**ť**, pamä**ť** (počítača)
+    - `z`: halu**z**, reťa**z**
+    - `ž`: kalu**ž**, súťa**ž**
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
