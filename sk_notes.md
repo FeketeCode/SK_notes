@@ -767,6 +767,29 @@ Patria sem:
     - `z`: halu**z**, reťa**z**
     - `ž`: kalu**ž**, súťa**ž**
 
+#### 1.podvzor elektráreň
+
+|     | Singulár     | Plurál          |
+| --- | ------------ | --------------- |
+| N   |  elektráreň  | elektrárne      |
+| G   |  elektrárne  | elektrární      |
+| D   |  elektrárni  | elektrárňam \*  |
+| A   |  elektráreň  | elektrárne      |
+| L   |  elektrárni  | elektrárňach \* |
+| I   |  elektrárňou | elektrárňami    |
+
+Patria sem:
+
+- Posledná slabika v tvarotvornom základe alebo predposledná slabika v type so zánikovou alternáciou je dlhá: p**ie**seň, prest**í**ž, jed**á**leň, tlač**ia**reň, gar**á**ž, lek**á**reň.
+- Zakončenia: 
+    - `j`: koľa**j**, trofe**j**, ese**j**, náde**j**
+    - `ň`: báse**ň**, priaze**ň**
+    - `š`: vý**š**
+    - `ť`: púš**ť**, sie**ť**
+    - `ž`: prestí**ž**, grilá**ž**, demontá**ž**
+    - `r`(veľmi zriedkavo): tvá**r**
+- Časté prípony sú -`eň`, -`áreň`, -`iareň`, -`áž`: káz**eň**, tov**áreň**, kav**iareň**, kabel**áž**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
