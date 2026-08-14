@@ -790,6 +790,60 @@ Patria sem:
     - `r`(veľmi zriedkavo): tvá**r**
 - Časté prípony sú -`eň`, -`áreň`, -`iareň`, -`áž`: káz**eň**, tov**áreň**, kav**iareň**, kabel**áž**.
 
+### Vzor kosť
+
+|     | Singulár | Plurál   |
+| --- | -------- | -------- |
+| N   | kosť     | kosti    |
+| G   | kosti    | kostí    |
+| D   | kosti    | kostiam  |
+| A   | kosť     | kosti    |
+| L   | kosti    | kostiach |
+| I   | kosťou   | kosťami  |
+
+Patira sem:
+
+- Neosobné podstatné mená, hlavne abstraktá, materiáliá, kolektíva zakončené na mäkké, výnimočne na obojaké spoluhlásky: osobnosť, skutočnosť, chuť, soľ.
+- Zriedkavo aj:
+    - toponymá: Budapešť, Rus, Sibír.
+    - počítateľné konkréta: myš, hus, voš.
+- Posledná slabika v tvarotvorným základom je krátka a najbežnejšia prípona je `-osť`.
+- Zakončenia:
+    - `(o)sť`: úprimn**osť**, bole**sť**, ča**sť**
+    - `c`: mo**c**, ve**c**, no**c**
+    - `č`: re**č**, se**č**
+    - `ď`: me**ď**
+    - `ľ`: so**ľ**
+    - `p`: ote**p**, ste**p**
+    - `r`: ja**r**, zve**r** (zvieratá)
+    - `s`: zme**s**, o**s**
+    - `š`: my**š**, vo**š**
+    - `ť`: (ľudská) pamä**ť**, ple**ť**, sne**ť**
+    - `v`: cirke**v**\*, reďke**v**\*, obu**v**
+    - `ž`: lo**ž**
+
+> \* Ich skloňovanie:
+>
+> |     | Singulár | Plurál      |
+> | --- | -------- | ----------- |
+> | N   | cirkev   | cirkvi      |
+> | G   | cirkvi   | cirkví      |
+> | D   | cirkvi   | cirkvám \*  |
+> | A   | cirkev   | cirkvi      |
+> | L   | cirkvi   | cirkvách \* |
+> | I   | cirkvou  | cirkvami    |
+> 
+> |     | Singulár | Plurál      |
+> | --- | -------- | ----------- |
+> | N   | reďkev   | reďkvi      |
+> | G   | reďkvi   | reďkví      |
+> | D   | reďkvi   | reďkvám \*  |
+> | A   | reďkev   | reďkvi      |
+> | L   | reďkvi   | reďkvách \* |
+> | I   | reďkvou  | reďkvami    |
+
+> Vzor *kosť* je oveľa bežnejšie ako vzor *dlaň*.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
