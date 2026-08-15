@@ -844,6 +844,21 @@ Patira sem:
 
 > Vzor *kosť* je oveľa bežnejšie ako vzor *dlaň*.
 
+### Vzor gazdiná
+
+|     | Singulár | Plurál    |
+| --- | -------- | --------- |
+| N   | gazdiná  | gazdiné   |
+| G   | gazdinej | gazdín    |
+| D   | gazdinej | gazdinám  |
+| A   | gazdinú  | gazdiné   |
+| L   | gazdinej | gazdinách |
+| I   | gazdinou | gazdinami |
+
+Patria sem:
+
+- Nasledujúce podstatné mená a ich odvodeniny: gazdiná, švagriná, testiná, ujčiná, stryná.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
