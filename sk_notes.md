@@ -859,6 +859,21 @@ Patria sem:
 
 - Nasledujúce podstatné mená a ich odvodeniny: gazdiná, švagriná, testiná, ujčiná, stryná.
 
+#### 1.podvzor cisárovná
+
+|     | Singulár   | Plurál        |
+| --- | ---------- | ------------- |
+| N   | cisárovná  | cisárovné     |
+| G   | cisárovnej | cisárovien \* |
+| D   | cisárovnej | cisárovnám    |
+| A   | cisárovnú  | cisárovné     |
+| L   | cisárovnej | cisárovnách   |
+| I   | cisárovnou | cisárovnami   |
+
+Patria sem:
+
+- Nasledujúce podstatné mená (v ktorých sa pred koncovkou -`á` nachádzajú dve spoluhlásky) a ich odvodeniny: cisárovná, cárovná, kráľovná, princezná, šľachtičná, kňažná.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
