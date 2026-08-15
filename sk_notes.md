@@ -874,6 +874,31 @@ Patria sem:
 
 - Nasledujúce podstatné mená (v ktorých sa pred koncovkou -`á` nachádzajú dve spoluhlásky) a ich odvodeniny: cisárovná, cárovná, kráľovná, princezná, šľachtičná, kňažná.
 
+### Pani
+
+|     | Singulár | Plurál  |
+| --- | -------- | ------- |
+| N   | pani     | panie   |
+| G   | panej    | paní    |
+| D   | panej    | paniam  |
+| A   | paniu    | panie   |
+| L   | panej    | paniach |
+| I   | paňou    | paniami |
+
+Podstatné meno *pani* sa skloňujú ***iba*** vtedy, keď stojí samostatne! Keď plní funkciu prívlastku, ***nikdy*** sa neskloňuje!<br>
+Napr.: Vidíš tú paniu? ***ALE*** K pani lekárke.
+
+### Mať\Mater
+
+|     | Singulár  | Plurál    |
+| --- | --------- | --------- |
+| N   | mať\mater | matere    |
+| G   | matere    | materí    |
+| D   | materi    | materiam  |
+| A   | mať\mater | matere    |
+| L   | materi    | materiach |
+| I   | materou   | materami  |
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
@@ -882,4 +907,3 @@ Patria sem:
 | A   |  |  |
 | L   |  |  |
 | I   |  |  |
-
