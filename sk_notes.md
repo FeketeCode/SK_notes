@@ -899,6 +899,40 @@ Napr.: Vidíš tú paniu? ***ALE*** K pani lekárke.
 | L   | materi    | materiach |
 | I   | materou   | materami  |
 
+## Stredný rod
+
+### Vzor mesto
+
+|     | Singulár | Plurál  |
+| --- | -------- | ------- |
+| N   | mesto    | mestá   |
+| G   | mesta    | miest   |
+| D   | mestu    | mestám  |
+| A   | mesto    | mestá   |
+| L   | meste    | mestách |
+| I   | mestom   | mestami |
+
+Patria sem:
+
+- Podstatné mená, ktorých tvarotvorné základy sú krátke, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`.
+- Zakončenia tvarotvorného základu:
+    - `b`: Kolom**b**o
+    - `d`: br**d**o, koman**d**o
+    - `f`: tra**f**o
+    - `l`: lietad**l**o, bra**l**o, jed**l**o
+    - `m`: eski**m**o, maxi**m**um
+    - `n`: ok**n**o, me**n**o
+    - `p`: gesta**p**o
+    - `r`: cent**r**um, fut**r**o
+    - `s`: la**s**o
+    - `t`: si**t**o
+    - `v`: spoločenst**v**o, pi**v**o, Gabčíko**v**o
+- Výnimkové zakončenia:
+    - `č`: le**č**o
+    - `š`: Mogadi**š**o
+
+> Pri slovách zakončených na -`stvo`, -`ctvo` vkladáme ***iba*** -`ie`-: druž**stvo** &rarr; družst**ie**v, súdni**ctvo** &rarr; súdnict**ie**v.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
