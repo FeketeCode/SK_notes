@@ -945,7 +945,7 @@ Patria sem:
 
 Patria sem:
   
-- Podstatné mená, ktorých tvarotvorné základy sú dlhé, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`: číslo, poľnohospodárstvo, vízum.
+- Podstatné mená, ktorých tvarotvorné základy sú dlhé, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`: č**í**sl**o**, poľnohospod**á**rstv**o**, v**í**z**um**.
 
 > Ak tvarotvorný základ končí na jednu spoluhlásku, príponu v genitíve množného čísla nepridávame.<br>
 Napr.: právo &rarr; práv, dielo &rarr; diel, fórum &rarr; fór, dáta &rarr; dát.
@@ -964,6 +964,27 @@ Napr.: právo &rarr; práv, dielo &rarr; diel, fórum &rarr; fór, dáta &rarr; 
 Patria sem:
 
 - Podstatné mená, ktorých tvarotvorné základy sú krátke a končia velárnymi spoluhláskami (`k`, `g`, `h`, `ch`): ti**ch**o, sln**k**o, publi**k**um, Slovens**k**o, Maďars**k**o.
+
+#### 3.podvzor mlieko
+
+|     | Singulár  | Plurál      |
+| --- | --------- | ----------- |
+| N   | mlieko    | mlieka      |
+| G   | mlieka    | mliek       |
+| D   | mlieku    | mliekam \*  |
+| A   | mlieko    | mlieka      |
+| L   | mlieku \* | mliekach \* |
+| I   | mliekom   | mliekami    |
+
+Patria sem:
+
+- Podstatné mená, ktorých tvarotvorné základy sú dlhé a končia velárnymi spoluhláskami (`k`, `g`, `h`, `ch`): r**úch**o, r**ú**š**k**o, t**ág**o, Beng**á**ls**k**o.
+
+> Ak tvarotvorný základ končí na jednu spoluhlásku, príponu v genitíve množného čísla nepridávame.<br>
+> Napr.: rúcho &rarr; rúch, tágo &rarr; tág, mlieko &rarr; mliek.
+>
+> Ak slovo končí na `<SPOLUHLÁSKA>ko`, do tvarotvorného základu v genitíve množného čísla vkladáme hlásku `o`.<br>
+> Napr.: vajíčko &rarr; vajíčok, pravítko &rarr; pravítok.
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
