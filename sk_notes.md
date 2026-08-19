@@ -913,7 +913,6 @@ Napr.: Vidíš tú paniu? ***ALE*** K pani lekárke.
 | I   | mestom   | mestami |
 
 Patria sem:
-
 - Podstatné mená, ktorých tvarotvorné základy sú krátke, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`.
 - Zakončenia tvarotvorného základu:
     - `b`: Kolom**b**o
@@ -932,6 +931,24 @@ Patria sem:
     - `š`: Mogadi**š**o
 
 > Pri slovách zakončených na -`stvo`, -`ctvo` vkladáme ***iba*** -`ie`-: druž**stvo** &rarr; družst**ie**v, súdni**ctvo** &rarr; súdnict**ie**v.
+
+#### 1.podvzor miesto
+
+|     | Singulár | Plurál      |
+| --- | -------- | ----------- |
+| N   | miesto   | miesta \*   |
+| G   | miesta   | miest       |
+| D   | miestu   | miestam \*  |
+| A   | miesto   | miesta \*   |
+| L   | mieste   | miestach \* |
+| I   | miestom  | miestami    |
+
+Patria sem:
+  
+- Podstatné mená, ktorých tvarotvorné základy sú dlhé, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`: číslo, poľnohospodárstvo, vízum.
+
+> Ak tvarotvorný základ končí na jednu spoluhlásku, príponu v genitíve množného čísla nepridávame.<br>
+Napr.: právo &rarr; práv, dielo &rarr; diel, fórum &rarr; fór, dáta &rarr; dát.
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
