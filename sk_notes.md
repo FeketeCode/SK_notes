@@ -950,6 +950,21 @@ Patria sem:
 > Ak tvarotvorný základ končí na jednu spoluhlásku, príponu v genitíve množného čísla nepridávame.<br>
 Napr.: právo &rarr; práv, dielo &rarr; diel, fórum &rarr; fór, dáta &rarr; dát.
 
+#### 2.podvzor stredisko
+
+|     | Singulár     | Plurál      |
+| --- | ------------ | ----------- |
+| N   | stredisko    | strediská   |
+| G   | strediska    | stredísk    |
+| D   | stredisku    | strediskám  |
+| A   | stredisko    | strediská   |
+| L   | stredisku \* | strediskách |
+| I   | strediskom   | strediskami |
+
+Patria sem:
+
+- Podstatné mená, ktorých tvarotvorné základy sú krátke a končia velárnymi spoluhláskami (`k`, `g`, `h`, `ch`): ti**ch**o, sln**k**o, publi**k**um, Slovens**k**o, Maďars**k**o.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
