@@ -753,7 +753,7 @@ Patria sem:
 
 Patria sem:
 
-- Neosobné podstatné mená (okrem neter), hlavne počítateľné konkréty, ale zriedkavo aj nepravé abstraktá (abstraktné podstatné mená, ktoré správajú ako počítateľné, konkrétne mená) zakončené na mäkké, výnimočne na iné spoluhlásky:
+- neosobné podstatné mená (okrem neter), hlavne počítateľné konkréty, ale zriedkavo aj nepravé abstraktá (abstraktné podstatné mená, ktoré správajú ako počítateľné, konkrétne mená) zakončené na mäkké, výnimočne na iné spoluhlásky:
     - `c`: obe**c**, pe**c**
     - `č`: žl**č**, tla**č** 
     - `ď`: lo**ď**, hru**ď**, Sere**ď**
@@ -780,15 +780,15 @@ Patria sem:
 
 Patria sem:
 
-- Posledná slabika v tvarotvornom základe alebo predposledná slabika v type so zánikovou alternáciou je dlhá: p**ie**seň, prest**í**ž, jed**á**leň, tlač**ia**reň, gar**á**ž, lek**á**reň.
-- Zakončenia: 
+- posledná slabika v tvarotvornom základe alebo predposledná slabika v type so zánikovou alternáciou je dlhá: p**ie**seň, prest**í**ž, jed**á**leň, tlač**ia**reň, gar**á**ž, lek**á**reň.
+- zakončenia: 
     - `j`: koľa**j**, trofe**j**, ese**j**, náde**j**
     - `ň`: báse**ň**, priaze**ň**
     - `š`: vý**š**
     - `ť`: púš**ť**, sie**ť**
     - `ž`: prestí**ž**, grilá**ž**, demontá**ž**
     - `r`(veľmi zriedkavo): tvá**r**
-- Časté prípony sú -`eň`, -`áreň`, -`iareň`, -`áž`: káz**eň**, tov**áreň**, kav**iareň**, kabel**áž**.
+- časté prípony sú -`eň`, -`áreň`, -`iareň`, -`áž`: káz**eň**, tov**áreň**, kav**iareň**, kabel**áž**.
 
 ### Vzor kosť
 
@@ -803,12 +803,12 @@ Patria sem:
 
 Patira sem:
 
-- Neosobné podstatné mená, hlavne abstraktá, materiáliá, kolektíva zakončené na mäkké, výnimočne na obojaké spoluhlásky: osobnosť, skutočnosť, chuť, soľ.
-- Zriedkavo aj:
+- neosobné podstatné mená, hlavne abstraktá, materiáliá, kolektíva zakončené na mäkké, výnimočne na obojaké spoluhlásky: osobnosť, skutočnosť, chuť, soľ.
+- zriedkavo aj:
     - toponymá: Budapešť, Rus, Sibír.
     - počítateľné konkréta: myš, hus, voš.
-- Posledná slabika v tvarotvorným základom je krátka a najbežnejšia prípona je `-osť`.
-- Zakončenia:
+- posledná slabika v tvarotvorným základom je krátka a najbežnejšia prípona je `-osť`.
+- zakončenia:
     - `(o)sť`: úprimn**osť**, bole**sť**, ča**sť**
     - `c`: mo**c**, ve**c**, no**c**
     - `č`: re**č**, se**č**
@@ -857,7 +857,7 @@ Patira sem:
 
 Patria sem:
 
-- Nasledujúce podstatné mená a ich odvodeniny: gazdiná, švagriná, testiná, ujčiná, stryná.
+- nasledujúce podstatné mená a ich odvodeniny: gazdiná, švagriná, testiná, ujčiná, stryná.
 
 #### 1.podvzor cisárovná
 
@@ -872,7 +872,7 @@ Patria sem:
 
 Patria sem:
 
-- Nasledujúce podstatné mená (v ktorých sa pred koncovkou -`á` nachádzajú dve spoluhlásky) a ich odvodeniny: cisárovná, cárovná, kráľovná, princezná, šľachtičná, kňažná.
+- nasledujúce podstatné mená (v ktorých sa pred koncovkou -`á` nachádzajú dve spoluhlásky) a ich odvodeniny: cisárovná, cárovná, kráľovná, princezná, šľachtičná, kňažná.
 
 ### Pani
 
@@ -913,8 +913,8 @@ Napr.: Vidíš tú paniu? ***ALE*** K pani lekárke.
 | I   | mestom   | mestami |
 
 Patria sem:
-- Podstatné mená, ktorých tvarotvorné základy sú krátke, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`.
-- Zakončenia tvarotvorného základu:
+- podstatné mená, ktorých tvarotvorné základy sú krátke, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`.
+- zakončenia tvarotvorného základu:
     - `b`: Kolom**b**o
     - `d`: br**d**o, koman**d**o
     - `f`: tra**f**o
@@ -926,7 +926,7 @@ Patria sem:
     - `s`: la**s**o
     - `t`: si**t**o
     - `v`: spoločenst**v**o, pi**v**o, Gabčíko**v**o
-- Výnimkové zakončenia:
+- výnimkové zakončenia:
     - `č`: le**č**o
     - `š`: Mogadi**š**o
 
@@ -945,7 +945,7 @@ Patria sem:
 
 Patria sem:
   
-- Podstatné mená, ktorých tvarotvorné základy sú dlhé, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`: č**í**sl**o**, poľnohospod**á**rstv**o**, v**í**z**um**.
+- podstatné mená, ktorých tvarotvorné základy sú dlhé, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`: č**í**sl**o**, poľnohospod**á**rstv**o**, v**í**z**um**.
 
 > Ak tvarotvorný základ končí na jednu spoluhlásku, príponu v genitíve množného čísla nepridávame.<br>
 Napr.: právo &rarr; práv, dielo &rarr; diel, fórum &rarr; fór, dáta &rarr; dát.
@@ -963,7 +963,7 @@ Napr.: právo &rarr; práv, dielo &rarr; diel, fórum &rarr; fór, dáta &rarr; 
 
 Patria sem:
 
-- Podstatné mená, ktorých tvarotvorné základy sú krátke a končia velárnymi spoluhláskami (`k`, `g`, `h`, `ch`): ti**ch**o, sln**k**o, publi**k**um, Slovens**k**o, Maďars**k**o.
+- podstatné mená, ktorých tvarotvorné základy sú krátke a končia velárnymi spoluhláskami (`k`, `g`, `h`, `ch`): ti**ch**o, sln**k**o, publi**k**um, Slovens**k**o, Maďars**k**o.
 
 #### 3.podvzor mlieko
 
@@ -978,7 +978,7 @@ Patria sem:
 
 Patria sem:
 
-- Podstatné mená, ktorých tvarotvorné základy sú dlhé a končia velárnymi spoluhláskami (`k`, `g`, `h`, `ch`): r**úch**o, r**ú**š**k**o, t**ág**o, Beng**á**ls**k**o.
+- podstatné mená, ktorých tvarotvorné základy sú dlhé a končia velárnymi spoluhláskami (`k`, `g`, `h`, `ch`): r**úch**o, r**ú**š**k**o, t**ág**o, Beng**á**ls**k**o.
 
 > Ak tvarotvorný základ končí na jednu spoluhlásku, príponu v genitíve množného čísla nepridávame.<br>
 > Napr.: rúcho &rarr; rúch, tágo &rarr; tág, mlieko &rarr; mliek.
