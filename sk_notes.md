@@ -986,6 +986,25 @@ Patria sem:
 > Ak slovo končí na `<SPOLUHLÁSKA>ko`, do tvarotvorného základu v genitíve množného čísla vkladáme hlásku `o`.<br>
 > Napr.: vajíčko &rarr; vajíčok, pravítko &rarr; pravítok.
 
+### Vzor srdce
+
+|     | Singulár | Plurál   |
+| --- | -------- | -------- |
+| N   | srdce    | srdcia   |
+| G   | srdca    | sŕdc     |
+| D   | srdcu    | srdciam  |
+| A   | srdce    | srdcia   |
+| L   | srdci    | srdciach |
+| I   | srdcom   | srdcami  |
+
+Patria sem:
+
+- podstatné mená najmä domáceho pôvodu, zakončené v nominatíve jednotného čísla na -`e`, v nominatíve množného čísla na -`ia` a  ktorých posledná slabika tvarotvorného základu je krátka: p**o**l**e**, m**o**r**e**, nástup**i**št**e**, p**r**s**ia**.
+
+> Väčšina podstatných mien má v genitíve plurálu nulovú pádovú príponu a predĺženú poslednú kmeňovú slabiku, ale slová *more*, *pole*, *lože* majú pádovú príponu -`í`: morí, polí, loží.
+>
+> Pri slovách s vkladnou samohláskou v genitíve množného čísla sa pred koncovkou nachádza skupina dvoch samohlások: va**jc**e &rarr; vaj**e**c, pi**vc**e &rarr; piv**ie**c, o**jc**e &rarr; oj**e**c.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
