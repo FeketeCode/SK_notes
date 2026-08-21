@@ -1022,6 +1022,24 @@ Patria sem:
 
 > Pri slovách s vkladnou samohláskou v genitíve množného čísla sa pred koncovkou nachádza skupina dvoch samohlások: pie**rc**e &rarr; pier**e**c, čie**lc**e &rarr; čiel**e**c, skielce &rarr; skielec.
 
+### Vzor vysvedčenie
+
+|     | Singulár    | Plurál        |
+| --- | ----------- | ------------- |
+| N   | vysvedčenie | vysvedčenia   |
+| G   | vysvedčenia | vysvedčení    |
+| D   | vysvedčeniu | vysvedčeniam  |
+| A   | vysvedčenie | vysvedčenia   |
+| L   | vysvedčení  | vysvedčeniach |
+| I   | vysvedčením | vysvedčeniami |
+
+Patria sem:
+
+- podstatné mená zakončené na -`ie`: obdob**ie**, riešen**ie**, liat**ie**, Stredomor**ie**.
+
+> Pádové prípony sú vždy dlhé!<br>
+> Napr.: Básnička o kv**ie**t**í**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
