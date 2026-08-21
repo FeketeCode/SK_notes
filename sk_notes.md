@@ -999,11 +999,28 @@ Patria sem:
 
 Patria sem:
 
-- podstatné mená najmä domáceho pôvodu, zakončené v nominatíve jednotného čísla na -`e`, v nominatíve množného čísla na -`ia` a  ktorých posledná slabika tvarotvorného základu je krátka: p**o**l**e**, m**o**r**e**, nástup**i**št**e**, p**r**s**ia**.
+- podstatné mená najmä domáceho pôvodu, zakončené v nominatíve jednotného čísla na -`e`, v nominatíve množného čísla na -`ia` a ktorých posledná slabika tvarotvorného základu je krátka: p**o**l**e**, m**o**r**e**, nástup**i**št**e**, p**r**s**ia**.
 
 > Väčšina podstatných mien má v genitíve plurálu nulovú pádovú príponu a predĺženú poslednú kmeňovú slabiku, ale slová *more*, *pole*, *lože* majú pádovú príponu -`í`: morí, polí, loží.
 >
 > Pri slovách s vkladnou samohláskou v genitíve množného čísla sa pred koncovkou nachádza skupina dvoch samohlások: va**jc**e &rarr; vaj**e**c, pi**vc**e &rarr; piv**ie**c, o**jc**e &rarr; oj**e**c.
+
+#### 1.podvzor líce
+
+|     | Singulár | Plurál    |
+| --- | -------- | --------- |
+| N   | líce     | líca \*   |
+| G   | líca     | líc       |
+| D   | lícu     | lícam \*  |
+| A   | líce     | líca \*   |
+| L   | líci     | lícach \* |
+| I   | lícom    | lícami    |
+
+Patria sem:
+
+- podstatné mená najmä domáceho pôvodu, zakončené v nominatíve jednotného čísla na -`e` a ktorých posledná slabika tvarotvorného základu je dlhá: pľ**ú**ca, jaz**ie**rc**e**, dr**ie**vc**e**.
+
+> Pri slovách s vkladnou samohláskou v genitíve množného čísla sa pred koncovkou nachádza skupina dvoch samohlások: pie**rc**e &rarr; pier**e**c, čie**lc**e &rarr; čiel**e**c, skielce &rarr; skielec.
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
