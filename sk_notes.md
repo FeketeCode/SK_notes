@@ -1003,7 +1003,7 @@ Patria sem:
 
 > Väčšina podstatných mien má v genitíve plurálu nulovú pádovú príponu a predĺženú poslednú kmeňovú slabiku, ale slová *more*, *pole*, *lože* majú pádovú príponu -`í`: morí, polí, loží.
 >
-> Pri slovách s vkladnou samohláskou v genitíve množného čísla sa pred koncovkou nachádza skupina dvoch samohlások: va**jc**e &rarr; vaj**e**c, pi**vc**e &rarr; piv**ie**c, o**jc**e &rarr; oj**e**c.
+> Pri slovách s vkladnou samohláskou v genitíve množného čísla sa pred koncovkou nachádza skupina dvoch samohlások(okrem -`šť`): va**jc**e &rarr; vaj**e**c, pi**vc**e &rarr; piv**ie**c, o**jc**e &rarr; oj**e**c.
 
 #### 1.podvzor líce
 
@@ -1040,6 +1040,33 @@ Patria sem:
 > Pádové prípony sú vždy dlhé!<br>
 > Napr.: Básnička o kv**ie**t**í**.
 
+### Vzor dievča
+
+|     | Singulár  | Plurál                   |
+| --- | --------- | ------------------------ |
+| N   | dievča    | dievčatá / dievčence     |
+| G   | dievčaťa  | dievčat / dievčeniec     |
+| D   | dievčaťu  | dievčatám / dievčencom   |
+| A   | dievča    | dievčatá / dievčence     |
+| L   | dievčati  | dievčatách / dievčencoch |
+| I   | dievčaťom | dievčatami / dievčencami |
+
+Patria sem:
+
+- podstatné mená zakončené na -`a`, po spoluhláskach -`b`-, -`p`-, -`m`- na -`ä`: morč**a**, kniež**a**, chláp**ä**, žrieb**ä**.
+
+> Existujú slová, ktoré majú v nominatíve plurálu rovnocenné dvojtvary<br>
+> Napr.: dvojča &rarr; dvojčatá / dvojčence, vnúča &rarr; vnúčatá / vnúčence<br>
+> Existujú slová, ktoré sa v nominatíve plurálu končia iba na -`atá`.<br>
+> Napr.: žriebä &rarr; žriebätá, kurča &rarr; kurčatá<br>
+> Existujú slová, ktoré sa v nominatíve plurálu končia iba na -`ence`.<br>
+> Napr.: kura &rarr; kurence, strídža &rarr; strídžence
+>
+> Tvary sa tvoria nulovou príponou a zadĺžením poslednej kmeňovej slabiky (ak už nie je dlhá) v tvaroch zakončených na -`atá`.<br>
+> Napr.: dvojč**atá** &rarr; dvojč**ia**t, jahň**atá** &rarr; jahn**ia**t **ALE** d**ie**vč**atá** &rarr; dievčat, kn**ie**ž**atá** &rarr; kniežat.<br>
+> Tvary sa tvoria nulovou príponou a vkladnou dvojhláskou -`ie`- v tvaroch zakončených na -`ence`/-`ce`.<br>
+> Napr.: dievč**ence** &rarr; dievčen**ie**c, št**ence** &rarr; šten**ie**c.
+ 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
