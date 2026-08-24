@@ -1066,6 +1066,18 @@ Patria sem:
 > Napr.: dvojč**atá** &rarr; dvojč**ia**t, jahň**atá** &rarr; jahn**ia**t **ALE** d**ie**vč**atá** &rarr; dievčat, kn**ie**ž**atá** &rarr; kniežat.<br>
 > Tvary sa tvoria nulovou príponou a vkladnou dvojhláskou -`ie`- v tvaroch zakončených na -`ence`/-`ce`.<br>
 > Napr.: dievč**ence** &rarr; dievčen**ie**c, št**ence** &rarr; šten**ie**c.
+
+## Pomnožné podstatné mená
+
+Skloňujú sa podľa vzorov `žena`, `ulica`, `dub`, `stroj`, `mesto` a `srdce` (vrátane ich podvzorov). Do jednotlivých vzorov sa zaraďujú podľa zakončenia.<br>
+Napr.:
+
+- ulica: nohavic**e**, nožnic**e**, kliešt**e**, paši**e**
+- stroj: okuliar**e**, kríž**e**, memoár**e**
+- žena: plavk**y**, novin**y**, hodink**y**
+- dub: teplák**y**, pretek**y**, dostih**y**
+- mesto: pľúc**a,** úst**a**, dát**a**
+- srdce: prs**ia**, nebes**ia**
  
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
