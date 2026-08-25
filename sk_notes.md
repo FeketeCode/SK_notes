@@ -288,6 +288,21 @@ Patria sem:
 
 - podstatné mená zakončené na -`o`: tatk**o**, maestr**o**, oc**o**.
 
+#### 4.podvzor génius
+
+|     | Singulár | Plurál      |
+| --- | -------- | ----------- |
+| N   | génius   | géniovia \* |
+| G   | génia    | géniov      |
+| D   | géniovi  | géniom      |
+| A   | génia    | géniov      |
+| L   | géniovi  | génioch     |
+| I   | géniom   | géniami \*  |
+
+Patria sem:
+
+- cudzie podstatné mená najmä s kmeňom zakončeným na samohlásku a s koncovkou -`us`, -`os`, -`es`, -`is`: bazil**eus**,patric**ius**, (ale aj) majordóm.
+
 ### Vzor hrdina
 
 |     | Singulár | Plurál    |
