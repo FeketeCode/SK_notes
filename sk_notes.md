@@ -333,6 +333,21 @@ Patria sem:
 
 - podstatné mená zakončené na -`ita`: band**ita**, jezu**ita**, metropol**ita**.
 
+### Vzor kuli
+
+|     | Singulár | Plurál   |
+| --- | -------- | -------- |
+| N   | kuli     | kuliovia |
+| G   | kuliho   | kuliov   |
+| D   | kulimu   | kuliom   |
+| A   | kuliho   | kuliov   |
+| L   | kulim    | kulioch  |
+| I   | kulim    | kuliami  |
+
+Patria sem:
+
+- cudzie životné maskulína zakončené na -`i`, -`y`, -`í`, -`ý`, -`e`, -`é`, -`ä`, -`ö`, -`ő`, -`ü`: husk**y**, Kád**i**, Abb**é**, Jen**ő**.
+
 ## Mužský rod, neživotný tvrdý
 
 ### Vzor dub
