@@ -1001,6 +1001,21 @@ Patria sem:
 > Ak slovo končí na `<SPOLUHLÁSKA>ko`, do tvarotvorného základu v genitíve množného čísla vkladáme hlásku `o`.<br>
 > Napr.: vajíčko &rarr; vajíčok, pravítko &rarr; pravítok.
 
+#### 4.podvzor rádio
+
+|     | Singulár | Plurál     |
+| --- | -------- | ---------- |
+| N   | rádio    | rádiá      |
+| G   | rádia    | rádií \*   |
+| D   | rádiu    | rádiám     |
+| A   | rádio    | rádiá      |
+| L   | rádiu \* | rádiách    |
+| I   | rádiom   | rádiami \* |
+
+Patria sem:
+
+- cudzie podstatné mená zakončené na -`ao`, -`uo`, -`eo`, -`io`, -`yo`: kak**ao**, vid**eo**, portfól**io**.
+
 ### Vzor srdce
 
 |     | Singulár | Plurál   |
