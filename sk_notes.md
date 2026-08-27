@@ -414,7 +414,7 @@ Patria sem:
 
 Patria sem:
 
-- podstatné mená zakončené na -`m`, -`izmus`, -`azmus`, -`mus`, -`mos`, -`us`, -`os`: dada**izmus**, algorit**mus**, ryt**mus**, koz**mos**, dinosaur**us** (len v množnom čísle), skarabe**us** (len v množnom čísle).
+- podstatné mená zakončené na -`m`, -`izmus`, -`azmus`, -`mus`, -`mos`, -`us`, -`os`: gra**m**, zázna**m**, dada**izmus**, ryt**mus**, koz**mos**, dinosaur**us** (len v množnom čísle), skarabe**us** (len v množnom čísle), (ale aj) nerv, zips.
 
 #### 3.podvzor sínus (autobus)
  
