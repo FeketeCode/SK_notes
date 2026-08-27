@@ -416,7 +416,25 @@ Patria sem:
 
 - podstatné mená zakončené na -`m`, -`izmus`, -`azmus`, -`mus`, -`mos`, -`us`, -`os`: dada**izmus**, algorit**mus**, ryt**mus**, koz**mos**, dinosaur**us** (len v množnom čísle), skarabe**us** (len v množnom čísle).
 
-#### 3.podvzor rybník
+#### 3.podvzor sínus (autobus)
+ 
+|     | Singulár                      | Plurál   |
+| --- | ----------------------------- | -------- |
+| N   | sínus                         | sínusy   |
+| G   | sínusu (autobusu/autobusa) \* | sínusov  |
+| D   | sínusu                        | sínusom  |
+| A   | sínus                         | sínusy   |
+| L   | sínuse                        | sínusoch |
+| I   | sínusom                       | sínusmi  |
+
+Patria sem:
+
+- cudzie podstatné mená pri ktorých sa koncovky -`us`, -`os`, -`es`, -`as` považujú za súčasť kmeňa: citr**us**, cha**os**, majál**es**, ischi**as**.
+
+> Niektoré slová majú v genitíve jednotného čísla dvojtvar -`a`/-`u`.<br>
+> Napr.: autobus &rarr; autobusa/autobusu, trolejbus &rarr; trolejbusa/trolejbusu, kaktus &rarr; kaktusa/kaktusu, bambus &rarr; bambusa/bambusu.
+
+#### 4.podvzor rybník
 
 |     | Singulár   | Plurál    |
 | --- | ---------- | --------- |
@@ -432,7 +450,7 @@ Patria sem:
 - najmä slová domáceho pôvodu, konkréta, zdrobneniny a slovánske toponymá: dáždnik, jazyk, kľúčik, Rakovník.
 - tvarotvorný základ je zakončený na (jednu) veláru -`k` (`-ík`, -`ek`, -`ák`), -`g`, -`h`, -`ch`: sklen**ík**, bato**h**, panel**ák**.
 
-#### 4.podvzor roh
+#### 5.podvzor roh
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
@@ -450,7 +468,7 @@ Patria sem:
 - tvarotvorný základ je zakončený kombináciou sonóry a velárneho konsonantu: dabi**ng**, difto**ng**, huria**vk**, katafa**lk**.
 - typické komponenty v kompozitách: -`lóg`, -`ftong`, -`ing`, -`burg`, -`borg`, -`berg`, -`ng`: mono**lóg**, mono**ftong**, trén**ing**, mít**ing**, Pek**ing**, Peters**burg**, Meko**ng**.
 
-#### 5.podvzor výsledok
+#### 6.podvzor výsledok
 
 |     | Singulár    | Plurál        |
 | --- | ----------- | ------------- |
@@ -466,7 +484,7 @@ Patria sem:
 - podobné ako podvzor `roh`, ale zároveň dochádza k vypúšťaniu pohyblivého -`o` alebo -`e`: moz**o**g, začiat**o**k, poplat**o**k.
 - najbežnejšia koncovka je -`ok`: pozem**ok**, pies**ok**, nábyt**ok**.
 
-#### 6.podvzor materiál
+#### 7.podvzor materiál
 
 |     | Singulár     | Plurál      |
 | --- | ------------ | ----------- |
@@ -482,7 +500,7 @@ Patria sem:
 - prevzaté abstraktá, materiáliá a kolektíva: arzenál, exteriér, karamel, Brusel.
 - bežné koncovky sú -`el`, -`ál`, -`er`, -`ér`: lok**ál**, person**ál**, mod**el**, softv**ér**, bundeswehr [bundesv**ér**].
 
-#### 7.podvzor tunel
+#### 8.podvzor tunel
 
 |     | Singulár  | Plurál   |
 | --- | --------- | -------- |
