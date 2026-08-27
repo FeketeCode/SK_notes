@@ -1048,6 +1048,7 @@ Patria sem:
 Patria sem:
 
 - cudzie podstatné mená zakončené na -`ao`, -`uo`, -`eo`, -`io`, -`yo`: kak**ao**, vid**eo**, portfól**io**.
+- nezdomácnené slová latinského pôvodu majú kmeň zakončený na samohlásku a koncovku -`um`: gymnáz**ium**, mauzól**eum**, vák**uum**.
 
 ### Vzor srdce
 
