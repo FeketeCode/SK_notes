@@ -1052,6 +1052,21 @@ Patria sem:
 - cudzie podstatné mená zakončené na -`ao`, -`uo`, -`eo`, -`io`, -`yo`: kak**ao**, vid**eo**, portfól**io**.
 - nezdomácnené slová latinského pôvodu majú kmeň zakončený na samohlásku a koncovku -`um`: gymnáz**ium**, mauzól**eum**, vák**uum**.
 
+#### 5.podvzor epiteton
+ 
+|     | Singulár | Plurál    |
+| --- | -------- | --------- |
+| N   | epiteton | epitetá   |
+| G   | epiteta  | epitet    |
+| D   | epitetu  | epitetám  |
+| A   | epiteton | epitetá   |
+| L   | epitete  | epitetách |
+| I   | epitetom | epitetami |
+
+Patria sem:
+
+- nezdomácnené cudzie podstatné mená zakončené na -`eto`, -`eton`, -`oto`, -`ko`, -`o`, v ktorých tieto zakončenia nie sú súčasťou kmeňa: eur**o**, dep**o**, kont**o**, distich**on**.
+
 ### Vzor srdce
 
 |     | Singulár | Plurál   |
