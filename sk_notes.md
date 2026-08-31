@@ -962,6 +962,7 @@ Napr.: Vidíš tú paniu? ***ALE*** K pani lekárke.
 
 Patria sem:
 - podstatné mená, ktorých tvarotvorné základy sú krátke, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`.
+- nezdomácnené slová latinského pôvodu, ktorých tvarotvorné základy sú krátke a majú kmeň zakončený na spoluhlásku a koncovku -`um`: min**imum**, max**imum**.
 - zakončenia tvarotvorného základu:
     - `b`: Kolom**b**o
     - `d`: br**d**o, koman**d**o
@@ -993,7 +994,8 @@ Patria sem:
 
 Patria sem:
   
-- podstatné mená, ktorých tvarotvorné základy sú dlhé, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`: č**í**sl**o**, poľnohospod**á**rstv**o**, v**í**z**um**.
+- podstatné mená, ktorých tvarotvorné základy sú dlhé, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`: č**í**sl**o**, poľnohospod**á**rstv**o**.
+- nezdomácnené slová latinského pôvodu, ktorých tvarotvorné základy sú dlhé a majú kmeň zakončený na spoluhlásku a koncovku -`um`: v**ízum**, f**órum**, pl**énum**.
 
 > Ak tvarotvorný základ končí na jednu spoluhlásku, príponu v genitíve množného čísla nepridávame.<br>
 Napr.: právo &rarr; práv, dielo &rarr; diel, fórum &rarr; fór, dáta &rarr; dát.
