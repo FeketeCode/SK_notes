@@ -892,6 +892,21 @@ Patira sem:
 
 > Vzor *kosť* je oveľa bežnejšie ako vzor *dlaň*.
 
+### Vzor idea
+
+|     | Singulár | Plurál |
+| --- | -------- | ------ |
+| N   | idea     | idey   |
+| G   | idey     | ideí   |
+| D   | idei     | ideám  |
+| A   | ideu     | idey   |
+| L   | idei     | ideách |
+| I   | ideou    | ideami |
+
+Patria sem:
+
+- cudzie podstatné mená zakončené na -`ea`, -`oa`, -`ua`: orchid**ea**, vin**ea**, odys**ea**, al**oa**, b**oa**, aq**ua**, kongr**ua**.
+
 ### Vzor gazdiná
 
 |     | Singulár | Plurál    |
