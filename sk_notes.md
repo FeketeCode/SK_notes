@@ -1174,7 +1174,34 @@ Napr.:
 - dub: teplák**y**, pretek**y**, dostih**y**
 - mesto: pľúc**a,** úst**a**, dát**a**
 - srdce: prs**ia**, nebes**ia**
+
+## Nesklonné podstatné mená
+
+Niektoré podstatné mená cudzieho pôvodu s pre slovenčinu netypickým zakončením sa neskloňujú.
+
+### Mužský rod
+
+Patria sem životné aj neživotné mužské podstatné mená s atypickým zakončením pre mužský rod.<br>
+Napr.:
+
+- `u`: kakad**u**, nand**u**, gur**u**
+- `au`: Kah**au**, čau-č**au**
+- `i`: vapit**i**
+- `o`: hok**o**
+- `e/é`: ataš**é**
+
+Ale aj Stonehenge, New Hampshire.
+
+### Ženský rod
+
+Patria sem ženské podstatné mená s atypickým zakončením pre ženský rod.<br>
+Napr.: miss, madame, superstar, párty, tortellini (pomnožné pod. m.), gnocchi (pomnožné pod. m.), story, whiskey, zoo (môže byť aj stredné pod. m), lady
  
+### Stredný rod
+
+Patria sem podstatné mená, ktoré sa nedajú podľa zakončenia zaradiť k iným rodom a stredné podstatné mená s atypickým zakončením pre stredný rod.<br>
+Napr.: menu, pyré, kanoe, deka (ako dekagram), finálé, deci, resumé, müsli, kivi (ako ovocie), tofu.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
