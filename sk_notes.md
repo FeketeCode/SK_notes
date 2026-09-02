@@ -1202,6 +1202,24 @@ Napr.: miss, madame, superstar, párty, tortellini (pomnožné pod. m.), gnocchi
 Patria sem podstatné mená, ktoré sa nedajú podľa zakončenia zaradiť k iným rodom a stredné podstatné mená s atypickým zakončením pre stredný rod.<br>
 Napr.: menu, pyré, kanoe, deka (ako dekagram), finálé, deci, resumé, müsli, kivi (ako ovocie), tofu.
 
+## Vlastné mená (Proprium)
+
+Pomenúvajú konkrétne osoby, predmety alebo javy ako jedinečné. Rozlišujeme na:
+
+- Vlastné mená osôb (antroponymá): krstné mená, priezviská, prezývky, obyvateľské a národné mená: Helena, Jozef Bielik, Janči, Habsburgovci, Bratislavčania, Česi.
+- Zemepisné mená (toponymá): Európa, Košice, Žilinský kraj, Malá Fatra, Južný Sudán.
+- Mená ľudských výtvorov a inštitúcií (chrématonymá): kniha Otec Goriot, pivo Topvar, časopis Slovenské pohľady.
+
+### Rod
+
+Prirodzené rody (mužský a ženský) označujú **živé bytosti**. Hlavným znakom pri rozlišovaní rodov je základný tvar vlastného mena.<br>
+Napr.: Ján (m.) - Jana (ž.), Slovák (m.) - Slovenka (ž.), Prešovčan (m.) - Prešovčanka (ž.).
+
+Vlastné mená označujú miesta a predmety môžu byť aj stredného rodu.<br>
+Napr.: Kolárovo, Nemecko, Počúvadlianske jazero.
+
+Cudzie a prevzaté vlastné mená s nezvyčajným zakončením radíme k strednému, zriedkavejšie k ženskému rodu a často ich neskloňujeme: tá Amazonka, tá Loira, to Chuang Che (nesklonné), tá Mississippi (nesklonné), to Zambezi (nesklonné).
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
