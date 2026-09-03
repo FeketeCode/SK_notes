@@ -1220,6 +1220,29 @@ Napr.: Kolárovo, Nemecko, Počúvadlianske jazero.
 
 Cudzie a prevzaté vlastné mená s nezvyčajným zakončením radíme k strednému, zriedkavejšie k ženskému rodu a často ich neskloňujeme: tá Amazonka, tá Loira, to Chuang Che (nesklonné), tá Mississippi (nesklonné), to Zambezi (nesklonné).
 
+### Číslo
+
+Vyskytujú sa najmä v jednotnom čísle, ale v množnom čísle sa s nimi môžeme stretnúť keď:
+
+- hovoríme o viacerých nositeľoch rovnakého krstného mena. V nominatíve množného čísla majú mužské krstné mená koncovku -`ovia`, ženského krstné mená majú koncovky podľa ženských vzorov.<br>
+Napr.: dnes majú meniny Juraj**ovia**; prišli obaja Petr**ovia**; v práci máme tri Beát**y** (vzor *žena*); obidve sú Patríc**ie** (vzor *agresia*); v triede máme päť Zlat**íc** (vzor *ulica*)
+- hovoríme o nositeľoch rovnakého priezviska, ktorí **nie sú príbuzní**. V jednotnom čísle mužského rodu v nominatíve používame -`ovia`, a v ženskom rode -`ová`/-`ská`.<br>
+Napr.: žije tu veľa Horváth**ov**; obidve sú Abelov**ské**.
+- hovoríme o nositeľoch rovnakého priezviska, ktorí **sú príbuzní**. Prípony:
+    - `ovci`: v type Kováč: bratia Kováč**ovci**, Nemc**ovci**, Beň**ovci**, Baláž**ovci**
+    - `ové`: v type Kováčová (vzor *pekná*): sestry Kováč**ové**, Horváth**ové**, Beň**ové**
+    - `é`/`e`: v type Adamecká (vzor *pekná*): sestry Adameck**é**, Petrovick**é**, Jedľovsk**é**
+    - `ie`: v type Dolejšia (vzor *cudzia*): sestry Dolejš**ie**, Gerš**ie**, Kolac**ie**, Holekš**ie**<br>
+Príslušníkov jednej rodiny môžeme označiť pomocou -`ová` (ako rodina Kováč**ová**), alebo -`cká`, -`ská`, -`ná` (ako rodina Orli**cká**, Orlickovcov, Orlických; rodina Maje**ská**, Majeskovcov, Majeských; rodina Šťast**ná**, Šťastnovcov, Šťastných).
+- v prenesenom význame: Shakespear**ovia** sa rodia len zriedkavo. Ikar**ovia** budú lietať v raketoplánoch.
+- hovoríme o pomnožných vlastných menách. Patria sem názvy:
+    - pohorí: Alpy, Andy, Himaláje, Tatry
+    - súostroví: Azory, Falklandy, Maldívy, Seychely
+    - miest: Atény, Benátky, Helsinky, Doľany
+    - sviatkov: Vianoce, Turíce, Hromnice
+
+> Pri vlastnom mene v množnom čísle sa aj prívlastok alebo kategória často skloňuje v jednotnom rode, ale v množnom čísle: Benátky **sú** mest**o** v Taliansku.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
