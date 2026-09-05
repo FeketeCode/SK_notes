@@ -216,7 +216,6 @@ Ale:
 Patria sem:
 
 - podstatné mená zakončené na spoluhlásku: kuchá**r**, fará**r**.
-- vlastné mená zakončené na -`u`: Papandre**u**, Višn**u**.
 - zvieracie podstatné mená v jednotnom čísle: slon, orangutan.
 
 Alternácia hlások v kmeni:<br>
@@ -1242,6 +1241,20 @@ Príslušníkov jednej rodiny môžeme označiť pomocou -`ová` (ako rodina Kov
     - sviatkov: Vianoce, Turíce, Hromnice
 
 > Pri vlastnom mene v množnom čísle sa aj prívlastok alebo kategória často skloňuje v jednotnom rode, ale v množnom čísle: Benátky **sú** mest**o** v Taliansku.
+
+### Vlastné osobné mená
+
+#### Životné mužské
+
+- vzor chlap:
+    - vlastné mená končiace na spoluhlásku vo výslovnosti, alebo na -`u`: Španie**l**, Gré**k**, Dimitri**u**, Papandre**u**, Višn**u**, Bonapar**te** (ak sa vyslovuje ako [Bonapar**t**], alebo podľa vzoru kuli, ak sa vyslovuje ako [Bonaparte]).
+    - niektoré vlastné mená zakončené na spoluhlásku majú v nominatíve množného čísla dvojtvar: Aztékovia/Aztéci, Toltékovia/Toltéci, Olmékovia/Olméci.
+- podvzor občan:
+    - vlastné mená končiace na -`an`: Anglič**an**, Košič**an**, Texas**an**, Nitr**an**, Rakúš**an**.
+- podvzor druh:
+    - vlastné mená cudzieho pôvodu končiace na spoluhlásku a na -`ovia` v nominatíve množného čísla, alebo na -`a` vo výslovnosti (ako francúzske mená zakončené na -`s`, -`x`, -`ois`, -`oix`): Jaku**b**, Pete**r**, Luká**š**, Dávi**d**, Joh**n**, Jackso**n**, Dub**ois** (SG: Duboisa), Delacr**oix** (SG: Delacroixa), Duma**s** (SG: Dumasa).
+    - ak sa posledné písmeno nevyslovuje, toto písmeno sa pred pádovými koncovkami vypúšťa: Zinedin**e** Zidan**e** \[Zinedyn Zidan\] \(SG: Zinedina Zidana\) Pierr**e** (SG: Pierra), Shakespear**e** (SG: Shakespeara).
+- podvzor dedko:
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
