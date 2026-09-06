@@ -1255,6 +1255,10 @@ Príslušníkov jednej rodiny môžeme označiť pomocou -`ová` (ako rodina Kov
     - vlastné mená cudzieho pôvodu končiace na spoluhlásku a na -`ovia` v nominatíve množného čísla, alebo na -`a` vo výslovnosti (ako francúzske mená zakončené na -`s`, -`x`, -`ois`, -`oix`): Jaku**b**, Pete**r**, Luká**š**, Dávi**d**, Joh**n**, Jackso**n**, Dub**ois** (SG: Duboisa), Delacr**oix** (SG: Delacroixa), Duma**s** (SG: Dumasa).
     - ak sa posledné písmeno nevyslovuje, toto písmeno sa pred pádovými koncovkami vypúšťa: Zinedin**e** Zidan**e** \[Zinedyn Zidan\] \(SG: Zinedina Zidana\) Pierr**e** (SG: Pierra), Shakespear**e** (SG: Shakespeara).
 - podvzor dedko:
+    - vlastné mená končiace na -`o`: Ot**o**, Colomb**o**, Fer**o**, Jož**o**, Ronald**o**, Szab**ó** (-`ó` **zachovávajú**, SG: Szab**ó**a)
+    - mená zakončené na -`o`/-`ó` vo výslovnosti: Morr**eau** \[morró\] \(SG: Morreaua [morróa]\), Russ**eau** \[russó\] \(SG: Russeaua [russóa]\), Malr**aux** \[malró\] \(SG: Malrauxa [malróa]\), God**ot** \[godó\] \(SG: Godota [godóa]\), L**aw** \[ló\] \(SG: Lawa [lóa]\), W**augh** \[vó\] \(SG: Waugha [vóa]\), Sh**aw** \[šó\] \(SG: Shawa [šóa]\).
+    - mená zakončené na -`u` alebo na hláskovú skupinu, ktorá sa vyslovuje ako [u]: Andr**ew** \[andru\] \(SG: Andrewa [andrua]\), R**oux** \[rú\] \(SG: Rouxa [rúa]\).
+> Pri rumunských, gréckych a albánskych menách typu Papandreu sa pri skloňovaní vypúšťa koncové -`u`: Popesc**u** (SG: Popesc**a**), Vasilesc**u** (SG: Vasilesc**a**), Dimitri**u** (SG: Dimitri**a**), Georgi**u** (SG: Georgi**a**).
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
