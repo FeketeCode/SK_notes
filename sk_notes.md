@@ -1259,6 +1259,13 @@ Príslušníkov jednej rodiny môžeme označiť pomocou -`ová` (ako rodina Kov
     - mená zakončené na -`o`/-`ó` vo výslovnosti: Morr**eau** \[morró\] \(SG: Morreaua [morróa]\), Russ**eau** \[russó\] \(SG: Russeaua [russóa]\), Malr**aux** \[malró\] \(SG: Malrauxa [malróa]\), God**ot** \[godó\] \(SG: Godota [godóa]\), L**aw** \[ló\] \(SG: Lawa [lóa]\), W**augh** \[vó\] \(SG: Waugha [vóa]\), Sh**aw** \[šó\] \(SG: Shawa [šóa]\).
     - mená zakončené na -`u` alebo na hláskovú skupinu, ktorá sa vyslovuje ako [u]: Andr**ew** \[andru\] \(SG: Andrewa [andrua]\), R**oux** \[rú\] \(SG: Rouxa [rúa]\).
 > Pri rumunských, gréckych a albánskych menách typu Papandreu sa pri skloňovaní vypúšťa koncové -`u`: Popesc**u** (SG: Popesc**a**), Vasilesc**u** (SG: Vasilesc**a**), Dimitri**u** (SG: Dimitri**a**), Georgi**u** (SG: Georgi**a**).
+- vzor hrdina:
+    - vlastné mená zakončené v písme aj vo výslovnosti na -`a`: Bautist**a**, Silv**a**, Borg**ia** [bordža].
+- vzor kuli:
+    - vlastné mená končiace vo výslovnosti na -`i`, -`í`, -`y`, -`ý`: Murph**y**, Hideghét**y**, Petőf**i**, Kaddaf**i**, Ferrar**i**, Shelle**y**.
+    - vlastné mená končiace na -`e`, -`é`, -`ä`: Arn**e**, Feket**e**, Dupr**é**, Heikkil**ä**.
+- vzor starký:
+    - najmä slovanské mená a priezviská zakončené v písanej podobe na -`ý`, -`oj`, -`yj` (-y), -`ij` (-i): Krut**ý**, Čajkovsk**ij**, Kowalsk**i**.
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
