@@ -1274,6 +1274,44 @@ Príslušníkov jednej rodiny môžeme označiť pomocou -`ová` (ako rodina Kov
 
 - najmä slovanské mená a priezviská zakončené v písanej podobe na -`ý`, -`oj`, -`yj` (-y), -`ij` (-i): Krut**ý**, Čajkovsk**ij**, Kowalsk**i**.
 
+#### Ženské
+
+##### Vzor žena
+
+- vlastné mená zakončené na tvrdú spoluhlásku s nasledujúcou samohláskou -`a`: Iva**na**, Jar**ka**, Sloven**ka**, Európan**ka**.
+
+> Niektoré vlastné mená majú v genitíve množného čísla dva varianty: (SN) Petronela &rarr; (PG) Petronel / Petroniel. 
+>
+> Niektoré mená gréckeho a latinského pôvodu zakončené na -`o` alebo na spoluhlásku menia pri skloňovaní svoj základ.
+>
+> | SN      | SG      |
+> | ------- | ------- |
+> | Juno    | Junony  |
+> | Ceres   | Cerery  |
+> | Izis    | Izidy   |
+> | Íris    | Íridy   |
+> | Demeter | Demetry |
+
+##### Vzor ulica
+
+- vlastné mená zakončené na mäkkú spoluhlásku s nasledujúcou samohláskou -`a`: Dani**ca**, Ľubi**ca**.
+- podvzor agresia:
+    - vlastné mená zakončené na -`ia`: Már**ia**, Júl**ia**, Xén**ia**, Lýd**ia**, Lív**ia**.
+- podvzor dielňa:
+    - vlastné mená, ktorých posledná slabika tvarotvorného základu je dlhá a dve spoluhlásky prechádzajú koncovke -`a`: Tá**ňa**.
+
+##### Vzor idea
+
+- vlastné mená zakončené na -`ea`, -`oa`, -`ua`: El**ea**, Andr**ea**.
+
+##### Vzor starká
+
+- ženské priezviská zakončené na -`ová`, alebo na tvrdú spoluhlásku a -`a`: Kováč**ová**, Varg**ová**.
+
+##### Vzor vedúca
+
+- zriedkavejšie ženské priezviská zakončené na mäkkú spoluhlásku a -`a`: Dolej**šia**, Mlad**šia**, Rý**dza**, Cer**cia**, Ku**dzia**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
