@@ -140,7 +140,7 @@ Slovný základ = časť slova, na ktorú sa pripája pádová prípona.
 
 <div style="page-break-after: always;"></div>
 
-<h1 style="text-align:center">PODSTATNÉ MENÁ (SUBSTANTÍVUM)</h1>
+<h1 style="text-align:center" id="podstatne_mena" >PODSTATNÉ MENÁ (SUBSTANTÍVUM)</h1>
 
 ---
 
@@ -1243,6 +1243,8 @@ Príslušníkov jednej rodiny môžeme označiť pomocou -`ová` (ako rodina Kov
 > Pri vlastnom mene v množnom čísle sa aj prívlastok alebo kategória často skloňuje v jednotnom rode, ale v množnom čísle: Benátky **sú** mest**o** v Taliansku.
 
 ### Vlastné osobné mená
+
+Vlastné mená sa zvyčajne skloňujú podľa [uvedených vzorov a podvzorov so zreteľom na ich číslo a rod.](#podstatne_mena). Nasledujúce príklady nie sú úplné.
 
 #### Životné mužské
 
