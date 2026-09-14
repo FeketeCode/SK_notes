@@ -1314,6 +1314,17 @@ Vlastné mená sa zvyčajne skloňujú podľa [uvedených vzorov a podvzorov so 
 
 - zriedkavejšie ženské priezviská zakončené na mäkkú spoluhlásku a -`a`: Dolej**šia**, Mlad**šia**, Rý**dza**, Cer**cia**, Ku**dzia**.
 
+#### Nesklonné ženské
+
+Najmä ženské vlastné mená cudzieho pôvodu:
+
+- zakončené na samohlásku -`i`/-`y`, -`e`, -`é`, -`ó`, -`ő`, -`u`, -`ú`: Noem**i**, Emil**y**, Tünd**e**, Chlo**é**, Enik**ő**, Lul**u**, Máhr**ú**.
+- niektoré antické mená: Artemis, Sapfo, Libertas, Nemesis.
+- mená s nulovou koncovkou: Sharon, Mercedes, Scarlet, Miriam, Charlotte [šarlot], Michelle [mišel].
+- české priezviská zakončené na -`ů`: Petr**ů**, Jan**ů**, Hajd**ů**.
+
+>> Niektoré z uvedených slov majú dvojtvar.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
