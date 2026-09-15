@@ -1252,12 +1252,12 @@ Vlastné mená sa zvyčajne skloňujú podľa [uvedených vzorov a podvzorov so 
 
 - vlastné mená končiace na spoluhlásku vo výslovnosti, alebo na -`u`: Španie**l**, Gré**k**, Dimitri**u**, Papandre**u**, Višn**u**, Bonapar**te** (ak sa vyslovuje ako [Bonapar**t**], alebo podľa vzoru kuli, ak sa vyslovuje ako [Bonaparte]).
 - niektoré vlastné mená zakončené na spoluhlásku majú v nominatíve množného čísla dvojtvar: Aztékovia/Aztéci, Toltékovia/Toltéci, Olmékovia/Olméci.
-- podvzor občan:
+- podvzor *občan*:
     - vlastné mená končiace na -`an`: Anglič**an**, Košič**an**, Texas**an**, Nitr**an**, Rakúš**an**.
-- podvzor druh:
+- podvzor *druh*:
     - vlastné mená cudzieho pôvodu končiace na spoluhlásku a na -`ovia` v nominatíve množného čísla, alebo na -`a` vo výslovnosti (ako francúzske mená zakončené na -`s`, -`x`, -`ois`, -`oix`): Jaku**b**, Pete**r**, Luká**š**, Dávi**d**, Joh**n**, Jackso**n**, Dub**ois** (SG: Duboisa), Delacr**oix** (SG: Delacroixa), Duma**s** (SG: Dumasa).
     - ak sa posledné písmeno nevyslovuje, toto písmeno sa pred pádovými koncovkami vypúšťa: Zinedin**e** Zidan**e** \[Zinedyn Zidan\] \(SG: Zinedina Zidana\) Pierr**e** (SG: Pierra), Shakespear**e** (SG: Shakespeara).
-- podvzor dedko:
+- podvzor *dedko*:
     - vlastné mená končiace na -`o`: Ot**o**, Colomb**o**, Fer**o**, Jož**o**, Ronald**o**, Szab**ó** (-`ó` **zachovávajú**, SG: Szab**ó**a)
     - mená zakončené na -`o`/-`ó` vo výslovnosti: Morr**eau** \[morró\] \(SG: Morreaua [morróa]\), Russ**eau** \[russó\] \(SG: Russeaua [russóa]\), Malr**aux** \[malró\] \(SG: Malrauxa [malróa]\), God**ot** \[godó\] \(SG: Godota [godóa]\), L**aw** \[ló\] \(SG: Lawa [lóa]\), W**augh** \[vó\] \(SG: Waugha [vóa]\), Sh**aw** \[šó\] \(SG: Shawa [šóa]\).
     - mená zakončené na -`u` alebo na hláskovú skupinu, ktorá sa vyslovuje ako [u]: Andr**ew** \[andru\] \(SG: Andrewa [andrua]\), R**oux** \[rú\] \(SG: Rouxa [rúa]\).
@@ -1297,9 +1297,9 @@ Vlastné mená sa zvyčajne skloňujú podľa [uvedených vzorov a podvzorov so 
 ##### Vzor ulica
 
 - vlastné mená zakončené na mäkkú spoluhlásku s nasledujúcou samohláskou -`a`: Dani**ca**, Ľubi**ca**.
-- podvzor agresia:
+- podvzor *agresia*:
     - vlastné mená zakončené na -`ia`: Már**ia**, Júl**ia**, Xén**ia**, Lýd**ia**, Lív**ia**.
-- podvzor dielňa:
+- podvzor *dielňa*:
     - vlastné mená, ktorých posledná slabika tvarotvorného základu je dlhá a dve spoluhlásky prechádzajú koncovke -`a`: Tá**ňa**.
 
 ##### Vzor idea
@@ -1341,7 +1341,7 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 ##### Vzor stroj
 
 - zemepisné mená zakončené na mäkkú, alebo obojakú spoluhlásku: Duna**j**, Banglade**š**, Duba**j**, Marráke**š**.
-- podvzor palec: Lučen**ec**, Jablon**ec**, Studen**ec**.
+- podvzor *palec*: Lučen**ec**, Jablon**ec**, Studen**ec**.
 - zemepisné mená zakončené na -`y`, ktoré sa vyslovuje ako [j]: Broadwa**y**.
 
 |     | Singulár | Plurál |
