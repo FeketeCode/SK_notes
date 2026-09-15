@@ -1323,7 +1323,7 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 - mená s nulovou koncovkou: Sharon, Mercedes, Scarlet, Miriam, Charlotte [šarlot], Michelle [mišel].
 - české priezviská zakončené na -`ů`: Petr**ů**, Jan**ů**, Hajd**ů**.
 
->> Niektoré z uvedených slov majú dvojtvar.
+> Niektoré z uvedených slov majú dvojtvar.
 
 ### Vlastné zemepisné mená
 
