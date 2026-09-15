@@ -1325,6 +1325,25 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 
 >> Niektoré z uvedených slov majú dvojtvar.
 
+### Vlastné zemepisné mená
+
+#### Mužské
+
+##### Vzor dub
+
+- zemepisné mená zakončené na tvrdú, prípadne obojakú spoluhlásku: Trenčí**n**, Zvole**n**, Prešo**v**, Stropko**v**.
+- podvzor *rybník*: Pezino**k**.
+- podvzor *hlad*: Madagaska**r**, Popra**d**, Madri**d**, Lyo**n**, Pakista**n**, Afganista**n**.
+- podvzor *roh*: Haa**g**, New Yor**k**, Pekin**g**, Züri**ch**.
+
+> Francúzske mená ako Montpellier zostávajú často nesklonné.
+
+##### Vzor stroj
+
+- zemepisné mená zakončené na mäkkú, alebo obojakú spoluhlásku: Duna**j**, Banglade**š**, Duba**j**, Marráke**š**.
+- podvzor palec: Lučen**ec**, Jablon**ec**, Studen**ec**.
+- zemepisné mená zakončené na -`y`, ktoré sa vyslovuje ako [j]: Broadwa**y**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
