@@ -1341,6 +1341,32 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 - podvzor *palec*: Lučen**ec**, Jablon**ec**, Studen**ec**.
 - zemepisné mená zakončené na -`y`, ktoré sa vyslovuje ako [j]: Broadwa**y**.
 
+#### Ženské
+
+##### Vzor žena
+
+- zemepisné mená zakončené na -`a`, pred -`a` je tvrdá alebo obojaká spoluhláska: Ameri**ka**, Euró**pa**, Vol**ga**.
+- pri španielskych menách zakončených na -`illa` sa neberia do úvahy pôvodná mäkká výslovnosť: Sev**illa** \[seviľa\] \(SG: Sevilly\), Granad**illa** \[granadiľa\] \(SG: Granadilly\).
+- cudzie zakončenie -`ca` sa niekedy pred pádovými koncovkami poslovenčuje: Casablan**ca** (SN) &rarr; Casablan**cu**/Casablan**ku** (SA).
+
+##### Vzor ulica
+
+- zemepisné mená zakončené na -`a`, pred -`a` je mäkká spoluhláska: (Banská) Štiavni**ca**, (Považská) Bystri**ca**, Kombo**dža**, Tró**ja**.
+- podvzor *agresia*: Olymp**ia**, Valenc**ia**, Áz**ia**, Austrál**ia**, Sýr**ia**.
+
+##### Vzor dlaň
+
+- väčšina ženských zemepisných názvov zakončených na mäkkú spoluhlásku: Sere**ď**, Koda**ň**.
+- podvzor *elektráreň*: Vied**eň**.
+
+##### Vzor kosť
+
+- mená zakončené na -`sť`: Dobroho**sť**, Budape**šť**, Bukure**šť**, ale aj Sibír.
+
+##### Vzor idea
+
+- zemepisné mená zakončené na -`ea`: Eritr**ea**, Kór**ea**, Guin**ea**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
