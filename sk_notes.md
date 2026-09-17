@@ -1367,6 +1367,18 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 
 - zemepisné mená zakončené na -`ea`: Eritr**ea**, Kór**ea**, Guin**ea**.
 
+#### Stredné
+
+##### Vzor mesto
+
+- zemepisné mená zakončené na -`o`, ktorých tvarotvorné základy sú krátke, končia nevelárnymi tvrdými alebo obojakými spoluhláskami: Brez**no**, Kjó**to**, Por**to**.
+- podvzor *stredisko*: Chica**go**, Talians**ko**, Ida**ho**.
+- podvzor *rádio*: Kolose**um**, Norik**um**, Sagunt**um**, Carnunt**um**.
+
+##### Vzor vysvedčenie
+
+- zemepisné mená zakončené na -`ie`: Záhor**ie**, Záles**ie**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
