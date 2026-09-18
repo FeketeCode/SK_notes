@@ -1329,6 +1329,7 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 ##### Vzor dub
 
 - zemepisné mená zakončené na tvrdú, prípadne obojakú spoluhlásku: Trenčí**n**, Zvole**n**, Prešo**v**, Stropko**v**.
+- pomnožné miestné názvy zakončené na -`y`: Smrdák**y** (ale PG: Smrdák), Novák**y** (ale PG: Novák), Piešťan**y** (ale PG: Piešťan).
 - podvzor *rybník*: Pezino**k**.
 - podvzor *hlad*: Madagaska**r**, Popra**d**, Madri**d**, Lyo**n**, Pakista**n**, Afganista**n**.
 - podvzor *roh*: Haa**g**, New Yor**k**, Pekin**g**, Züri**ch**.
@@ -1338,7 +1339,8 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 ##### Vzor stroj
 
 - zemepisné mená zakončené na mäkkú, alebo obojakú spoluhlásku: Duna**j**, Banglade**š**, Duba**j**, Marráke**š**.
-- podvzor *palec*: Lučen**ec**, Jablon**ec**, Studen**ec**.
+- pomnožné miestné názvy zakončené na -`e`: Tlmač**e** (ale PG: Tlmáč).
+- podvzor *palec*: Lučen**ec**, Jablon**ec**, Studen**ec**, Vráb**le** (pomnožné miestné a PG: Vrábeľ), Lad**ce** (pomnožné miestné a PG: Ladiec).
 - zemepisné mená zakončené na -`y`, ktoré sa vyslovuje ako [j]: Broadwa**y**.
 
 #### Ženské
@@ -1346,12 +1348,16 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 ##### Vzor žena
 
 - zemepisné mená zakončené na -`a`, pred -`a` je tvrdá alebo obojaká spoluhláska: Ameri**ka**, Euró**pa**, Vol**ga**.
+- pomnožné miestné názvy zakončené na -`y`, pred -`y` je tvrdá alebo obojaká spoluhláska: Tat**ry**, Al**py**.
 - pri španielskych menách zakončených na -`illa` sa neberia do úvahy pôvodná mäkká výslovnosť: Sev**illa** \[seviľa\] \(SG: Sevilly\), Granad**illa** \[granadiľa\] \(SG: Granadilly\).
 - cudzie zakončenie -`ca` sa niekedy pred pádovými koncovkami poslovenčuje: Casablan**ca** (SN) &rarr; Casablan**cu**/Casablan**ku** (SA).
+- podvzor *trieda*: At**ény** (pomnožné miestné), Filip**íny** (pomnožné miestné).
 
 ##### Vzor ulica
 
 - zemepisné mená zakončené na -`a`, pred -`a` je mäkká spoluhláska: (Banská) Štiavni**ca**, (Považská) Bystri**ca**, Kombo**dža**, Tró**ja**.
+- pomnožné miestné názvy zakončené na -`e`, pred -`e` je mäkká spoluhláska: Koši**ce**.
+- podvzor *hrádza*: Pompe**je** (pomnožné miestné), Himal**áje** (pomnožné miestné), Str**áže** (pomnožné miestné).
 - podvzor *agresia*: Olymp**ia**, Valenc**ia**, Áz**ia**, Austrál**ia**, Sýr**ia**.
 
 ##### Vzor dlaň
@@ -1372,8 +1378,12 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 ##### Vzor mesto
 
 - zemepisné mená zakončené na -`o`, ktorých tvarotvorné základy sú krátke, končia nevelárnymi tvrdými alebo obojakými spoluhláskami: Brez**no**, Kjó**to**, Por**to**.
-- podvzor *stredisko*: Chica**go**, Talians**ko**, Ida**ho**.
+- podvzor *stredisko*: Chica**go**, Talians**ko**, Ida**ho**, Košaris**ká** (pomnožné miestné), Sedlis**ká** (pomnožné miestné), Uhlis**ká** (pomnožné miestné).
 - podvzor *rádio*: Kolose**um**, Norik**um**, Sagunt**um**, Carnunt**um**.
+
+##### Vzor srdce
+
+- pomnožné miestné názvy zakončené na -`ia`: Lukovišt**ia**, Hlivišt**ia**.
 
 ##### Vzor vysvedčenie
 
