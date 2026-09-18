@@ -1379,6 +1379,17 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 
 - zemepisné mená zakončené na -`ie`: Záhor**ie**, Záles**ie**.
 
+##### Nesklonné
+
+Väčšina nesklonných zemepisných názvov je stredného rodu. Patria sem:
+
+- názvy zakončené vo výslovnosti na [o] alebo [ó], ale nie v písanej podobe: Waterl**oo**, Borde**aux**.
+- neslovánske názvy zakončené vo výslovnosti na [e] alebo [é]: Tenerif**e**, Čil**e**, Dušanb**e**.
+- cudzie názvy zakončené na -`i` alebo -`í`, písomne alebo vo výslovnosti: Milwaukkee [milvók**i**], Tennessee [tenes**i**], Sydney [sidn**i**], Bal**i**, Burund**i**.
+- cudzie názvy zakončené vo výslovnosti alebo písomne na -`u` alebo -`ú`: Bak**u**, Honolul**u**, Káthmand**u**, Dacha**u**.
+- cudzie názvy zakončené vo výslovnosti na spoluhlásku: Cannes [ka**n**], Maine [mej**n**], Toulouse [tulu**s**], Lille [li**l**].
+- pomnožné mená zakončené na -`s`: Buenos Aire**s**, Los Angele**s**, Massachusett**s**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
