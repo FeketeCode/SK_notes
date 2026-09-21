@@ -1409,7 +1409,7 @@ Najmä ženské vlastné mená cudzieho pôvodu:
 
 - zemepisné mená zakončené na -`a`, pred -`a` je mäkká spoluhláska: (Banská) Štiavni**ca**, (Považská) Bystri**ca**, Kombo**dža**, Tró**ja**.
 - pomnožné miestné názvy zakončené na -`e`, pred -`e` je mäkká spoluhláska: Koši**ce**.
-- podvzor *hrádza*: Pompe**je** (pomnožné miestné), Himal**áje** (pomnožné miestné), Str**áže** (pomnožné miestné).
+- podvzor *dielňa*: Pompe**je** (pomnožné miestné), Himal**áje** (pomnožné miestné), Str**áže** (pomnožné miestné).
 - podvzor *agresia*: Olymp**ia**, Valenc**ia**, Áz**ia**, Austrál**ia**, Sýr**ia**.
 
 ##### Vzor dlaň
