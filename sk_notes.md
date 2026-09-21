@@ -694,6 +694,58 @@ Pri slovách s kumuláciou dvoch spoluhlások vkladáme pred spoluhlásky nasled
 | -`ie`/`á`-             | ihla &rarr; ih**ie**l/ih**á**l, kvapka &rarr; kvap**ie**k/kvap**á**k |
 | -`ie`/`e`-             | výzva &rarr; výz**ie**v/výz**e**v, výhra &rarr; výh**ie**r/výh**e**r |
 
+#### 1.podvzor otázka (trieda)
+
+|     | Singulár | Plurál            |
+| --- | -------- | ----------------- |
+| N   | otázka   | otázky            |
+| G   | otázky   | otázok (tried) \* |
+| D   | otázke   | otázkam \*        |
+| A   | otázku   | otázky            |
+| L   | otázke   | otázkach \*       |
+| I   | otázkou  | otázkami          |
+
+Patria sem:
+
+- podstatné mená, ktorých posledná slabika tvarotvorného základu je už dlhá, a pred -`a` je tvrdá/obojaká spoluhláska:
+    - `b`: túž**b**a, ró**b**a
+    - `f`: hý**f**a
+    - `d`: ambasá**d**a, vlá**d**a, čokolá**d**a
+    - `g`: sá**g**a, synagó**g**a
+    - `h`: vá**h**a, drá**h**a
+    - `ch`: cia**ch**a
+    - `k`: hĺb**k**a, desiat**k**a, myšlien**k**a
+    - `l`: diagoná**l**a, štó**l**a, sá**l**a
+    - `m`: salá**m**a, drá**m**a, klí**m**a
+    - `n`: sezó**n**a, brá**n**a, zó**n**a
+    - `p`: kú**p**a
+    - `r`: é**r**a, kultú**r**a, dcé**r**a
+    - `s`: rím**s**a, krá**s**a
+    - `t`: minú**t**a, dié**t**a, komé**t**a
+    - `v`: sprá**v**a, alternatí**v**a
+    - `z`: krí**z**a, analý**z**a, remí**z**a
+- bežné sufixy:
+    - `itída`: artr**itída**
+    - `óda`: met**óda**
+    - `ka`: primár**ka**, hráč**ka**, podmien**ka**
+    - `níčka`: predsed**níčka**
+    - `ienka`: myšl**ienka**
+    - `ála`: dent**ála**
+    - `éma`: fon**éma**, morf**éma**
+    - `éna`: kantil**éna**
+    - `ína`: tambur**ína**, figur**ína**
+    - `óna`: eskadr**óna**
+    - `iéra`: bonbon**iéra**
+    - `úra`: kult**úra**, aparat**úra**, kreat**úra**
+    - `áta`: gemin**áta**, son**áta**
+    - `íva`: alternat**íva**, administrat**íva**
+    - `áza`: oxid**áza**, nukle**áza**
+    - `éza`: gen**éza**, ak**éza**, frit**éza**
+    - `íza`: expert**íza**
+    - `óza`: metamorf**óza**, visk**óza**
+
+> V domácej lexike je podvzor *otázka* s vkladnou hláskou v genitíve množného čísla frekventovanejší než podvzor *trieda* bez vkladnej hlásky.
+
 ## Ženský rod, mäkký
 
 Kmeň sa zvyčajne končí na mäkkú, niekedy na obojakú spluhlásku.
