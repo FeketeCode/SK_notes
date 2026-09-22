@@ -1452,6 +1452,30 @@ Väčšina nesklonných zemepisných názvov je stredného rodu. Patria sem:
 - cudzie názvy zakončené vo výslovnosti na spoluhlásku: Cannes [ka**n**], Maine [mej**n**], Toulouse [tulu**s**], Lille [li**l**].
 - pomnožné mená zakončené na -`s`: Buenos Aire**s**, Los Angele**s**, Massachusett**s**.
 
+## Adjektívne podstatné mená 
+
+Adjektívne podstatné mená, presnejšie spodstatnené prídavne mená, sú prídavné mená, ktoré fungujú ako podstatné mená.<br>
+Napr.: príbuzný, zosnulý
+
+### Mužské
+
+#### Vzor starký
+
+|     | Singulár  | Plurál    |
+| --- | --------- | --------- |
+| N   | starký    | starkí    |
+| G   | starkého  | starkých  |
+| D   | starkému  | starkým   |
+| A   | starkého  | starkých  |
+| L   | starkom   | starkých  |
+| I   | starkým   | starkými  |
+
+Patria sem:
+
+- spodstatnené prídavné mená, ktorých kmeň sa končí tvrdou alebo obojakou spoluhláskou: hlav**n**ý, mi**l**ý, obžalova**n**ý, sta**r**ý.
+
+> Riadi sa vzorom *pekný* a platí rytmický zákon: tr**ie**dn**y**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
