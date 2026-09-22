@@ -1493,6 +1493,40 @@ Patria sem:
 
 > Riadi sa vzorom *cudzí*.
 
+### Ženské
+
+#### Vzor starká
+
+|     | Singulár | Plurál   |
+| --- | -------- | -------- |
+| N   | starká   | starké   |
+| G   | starkej  | starkých |
+| D   | starkej  | starkým  |
+| A   | starkú   | starké   |
+| L   | starkej  | starkých |
+| I   | starkou  | starkými |
+
+Patria sem:
+
+- spodstatnené prídavné mená zakončené na tvrdú/obojakú spoluhlásku a samohlásku -`á`: seka**ná**, vybíja**ná**, červe**ná**, oranžo**vá**, zele**ná** (v doprave).
+
+> Riadi sa vzorom *pekná*.
+
+#### Vzor vedúca
+
+|     | Singulár | Plurál   |
+| --- | -------- | -------- |
+| N   | vedúca   | vedúce   |
+| G   | vedúcej  | vedúcich |
+| D   | vedúcej  | vedúcim  |
+| A   | vedúcu   | vedúce   |
+| L   | vedúcej  | vedúcich |
+| I   | vedúcou  | vedúcimi |
+
+Patria sem:
+
+- spodstatnené prídavné mená zakončené na mäkkú spoluhlásku a samohlásku -`a`: domá**ca**, vyučujú**ca**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
