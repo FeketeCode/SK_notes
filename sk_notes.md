@@ -1476,6 +1476,23 @@ Patria sem:
 
 > Riadi sa vzorom *pekný* a platí rytmický zákon: tr**ie**dn**y**.
 
+#### Vzor vedúci
+
+|     | Singulár | Plurál   |
+| --- | -------- | -------- |
+| N   | vedúci   | vedúci   |
+| G   | vedúceho | vedúcich |
+| D   | vedúcemu | vedúcim  |
+| A   | vedúceho | vedúcich |
+| L   | vedúcom  | vedúcich |
+| I   | vedúcim  | vedúcimi |
+
+Patria sem:
+
+- spodstatnené prídavné mená, ktorých kmeň sa končí mäkkou spoluhláskou: domá**c**i, skúšajú**c**i, cestujú**c**i.
+
+> Riadi sa vzorom *cudzí*.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
