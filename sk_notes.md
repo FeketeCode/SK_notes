@@ -400,6 +400,8 @@ Patria sem:
 - podstatné mená zakončené najmä na -`b`, -`d`, -`f`,-`l`, -`n`, -`p`, -`r`, -`s`, -`t`, -`v`, -`x`, -`z`: fa**x**, koncer**t**, štá**t**.
 - bežné koncové kombinácie sú -`st`, -`št`, -`zd`, -`ks/x`, -`kt`, -`pt`, -`ps`, -`ft`: zája**zd**, kontra**kt**.
 
+> K tomuto podvzoru patrí najviac neživotných podstatných mien mužského rodu.
+
 #### 2.podvzor džem
 
 |     | Singulár | Plurál     |
