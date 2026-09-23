@@ -1457,6 +1457,11 @@ Väčšina nesklonných zemepisných názvov je stredného rodu. Patria sem:
 Adjektívne podstatné mená, presnejšie spodstatnené prídavne mená, sú prídavné mená, ktoré fungujú ako podstatné mená.<br>
 Napr.: príbuzný, zosnulý
 
+Rozlišujeme:
+
+- slová so zreteľným vzťahom k pôvodnému slovnému druhu: hostinský, obžalovaný, známa, milá, biele (víno), šampanské (víno). Pri týchto slovách možno ešte doplniť pomenúvanú osobu alebo vec: obžalovaný človek, známa žena, biele víno.
+- slová, pri ktorých je adjektívne pôvod nezreteľný a ktoré sú považované za plnoprávne podstatné mená: pocestný, chyžná, hádzaná, nájomné, poštovné, prepitné. Fungujú ako samostatné podstatné mená a pomenúvajú osobu, šport, poplatok atď.
+
 ### Mužské
 
 #### Vzor starký
