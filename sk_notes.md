@@ -1532,6 +1532,23 @@ Patria sem:
 
 - spodstatnené prídavné mená zakončené na mäkkú spoluhlásku a samohlásku -`a`: domá**ca**, vyučujú**ca**.
 
+### Stredné
+
+#### Vzor nájomné
+
+|     | Singulár  | Plurál    |
+| --- | --------- | --------- |
+| N   | nájomné   | nájomné   |
+| G   | nájomného | nájomných |
+| D   | nájomnému | nájomným  |
+| A   | nájomné   | nájomné   |
+| L   | nájomnom  | nájomných |
+| I   | nájomným  | nájomnými |
+
+Patria sem:
+
+- spodstatnené prídavné mená, ktorých základ je zakončený na tvrdú/obojakú spoluhlásku a samohlásku -`e`/`é`: vstupné, poistné, odstupné, tvrdé.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
