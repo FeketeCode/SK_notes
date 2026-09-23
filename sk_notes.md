@@ -1513,7 +1513,7 @@ Patria sem:
 
 Patria sem:
 
-- spodstatnené prídavné mená zakončené na tvrdú/obojakú spoluhlásku a samohlásku -`á`: seka**ná**, vybíja**ná**, červe**ná**, oranžo**vá**, zele**ná** (v doprave).
+- spodstatnené prídavné mená zakončené na tvrdú/obojakú spoluhlásku a samohlásku -`a`/`-á`: seka**ná**, vybíja**ná**, červe**ná**, oranžo**vá**, zele**ná** (v doprave), zná**ma**.
 
 > Riadi sa vzorom *pekná*.
 
