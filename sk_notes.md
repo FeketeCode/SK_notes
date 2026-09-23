@@ -1547,7 +1547,22 @@ Patria sem:
 
 Patria sem:
 
-- spodstatnené prídavné mená, ktorých základ je zakončený na tvrdú/obojakú spoluhlásku a samohlásku -`e`/`é`: vstupné, poistné, odstupné, tvrdé.
+- spodstatnené prídavné mená, ktorých základ je zakončený na tvrdú/obojakú spoluhlásku a samohlásku -`e`/-`é`: vstup**né**, poist**né**, odstup**né** kľúč**ne**.
+
+#### Vzor hovädzie
+
+|     | Singulár   | Plurál    |
+| --- | ---------- | --------- |
+| N   | hovädzie   | hovädzie  |
+| G   | hovädzieho | hovädzích |
+| D   | hovädziemu | hovädzím  |
+| A   | hovädzie   | hovädzie  |
+| L   | hovädzom   | hovädzích |
+| I   | hovädzím   | hovädzími |
+
+Patria sem:
+
+- spodstatnené prídavné mená, ktorých základ je zakončený na mäkkú spoluhlásku a samohlásku -`e`/-`é`: teľa**cie**.
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
