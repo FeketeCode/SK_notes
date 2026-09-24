@@ -86,7 +86,7 @@ Napr.: dvo**jj**azyčný [dvoijaziční]
 
 ### Rytmický zákon
 
-Nevyskytujú sa 2 dlhé slabiky za sebou. Dlhé slabiky obsahujú samohlásku, dvojhlásku, dlhé r (*ŕ*), alebo dlhé l (*ĺ*)<br>
+Nevyskytujú sa 2 dlhé slabiky za sebou. Dlhé slabiky obsahujú dlhú samohlásku, dvojhlásku, dlhé r (*ŕ*), alebo dlhé l (*ĺ*)<br>
 Napr.: hn**ie**z-d**a**ch, č**í**-t**a**m
 
 Výnimky:
