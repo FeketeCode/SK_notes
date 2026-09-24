@@ -119,7 +119,7 @@ Prípona = stojí za koreňom a mení význam slova. Druhy prípon:
 - koncovka (ohýbacia prípona) = pripája sa za kmeň. Určuje kategóriu pádu pri menách a osoby pri slovesách<br>Napr.: Chytil**a** oranžové**ho** vtáčik**a**
 
 Kmeň = predpona + koreň + odvodzovacia prípona. Súčasťou kmeňa musí byť vždy koreň.
-Napr: **Chodievam**e do **športové**ho **bar**u U *Fer*a.
+Napr: **Chodievam**e do **športové**ho **bar**u U **Fer**a.
 
 Slovný základ = časť slova, na ktorú sa pripája pádová prípona.
 
