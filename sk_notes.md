@@ -1566,6 +1566,20 @@ Patria sem:
 
 - spodstatnené prídavné mená, ktorých základ je zakončený na mäkkú spoluhlásku a samohlásku -`e`/-`é`: teľa**cie**.
 
+---
+
+<div style="page-break-after: always;"></div>
+
+<h1 style="text-align:center" id="pridavne_mena" >PRÍDAVNÉ MENÁ (ADJEKTÍVUM)</h1>
+
+---
+
+Sú vždy v zhode s pomenovaným podstatným menom v rode, čísle a páde. Môžu byť **tvrdé** (napr.: pekný) alebo **mäkké** (napr.: cudzí).
+
+Podľa významu rozlišujeme prídavné mená **vlastnostné** a **privlastňovacie**.
+
+## Vlastnostné (proprietálne) prídavné mená
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
