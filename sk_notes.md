@@ -551,7 +551,7 @@ Patria sem:
 Patria sem:
 
 - najmä podstatné mená domáceho pôvodu, alebo s domácou morfológou: koniec, týždeň, rámec.
-- najčastejšie sufixy alebo zakončenie sú -`ec/c`, -`er/r`, -`eň/ň`, -`or/r`, -`el/l`, -`eľ/ľ`: tan**ec**, lit**er**, decemb**er**, týžd**eň**, kuf**or**, bycik**el**, šmirg**eľ**.
+- najčastejšie sufixy alebo zakončenie sú -`iec/ec/c`, -`er/r`, -`eň/ň`, -`or/r`, -`el/l`, -`eľ/ľ`: tan**ec**, lit**er**, decemb**er**, týžd**eň**, kuf**or**, bycik**el**, šmirg**eľ**.
 - dochádza k vypúšťaniu pohyblivé `o` alebo `e`: kuf**o**r, šiat**o**r, kalib**e**r, káb**e**l.
 
 #### 2.podvzor čaj
