@@ -532,7 +532,7 @@ ALE aj: jún, júl.
 
 Patria sem:
 
-- konkréta a nepravné abstraktá.
+- konkréta a nepravé abstraktá.
 - podstatné mená zakončené na mäkké spoluhlásky alebo na -`r`: mesia**c**, klú**č**, spray, [spre**j**], nô**ž**, komentá**r**.
 - bežné sufixy: -`ač/ovač`, -`áč`, -`ič`, -`ár`, -`iar`, -`ier`: vysáv**ač**, sek**áč**, chlad**ič**, olt**ár**, janu**ár**, koč**iar**, pap**ier**.
 - len v množnom čísle zvieracie podstatné mená zakončené na mäkké spoluhlásky: kô**ň**, medve**ď**.
