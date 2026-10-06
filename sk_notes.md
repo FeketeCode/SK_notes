@@ -1580,6 +1580,60 @@ Podľa významu rozlišujeme prídavné mená **vlastnostné** a **privlastňova
 
 ## Vlastnostné (proprietálne) prídavné mená
 
+Opisujú alebo hodnotia **vlastnosti** bytosí, predmetov a javov. Môže byť akostné alebo vzťahové.
+
+### Akostné (primárne, neodvedené)
+
+Vonkajšie a vnútorné vlastnosti vecí, ako zmyslami vnímané kvality (čierny, sladký, ľadový), priestorové a časové vlastnosti (malý, hlboký, starý), fyzické a duševné vlastnosti (slepý, svalnatý, zdvorilý), iné vlastnosti podľa dojmu hodnotenia (pekný, lacný, nepríjemný).
+
+Je možné ich stupňovať: pekný &rarr; krajší &rarr; najkrajší, sladký &rarr; sladší &rarr; najsladší.
+
+Tvoria antonymy: malý - veľký, plytký - hlboký.
+
+Príponami sa tvoria príslovky:
+
+- `e`: vtipný &rarr; vtipn**e**, krásny &rarr; krásn**e**
+- `o`: sladký &rarr; sladk**o**, biely &rarr; biel**o**
+- `e`/`o`: prešibaný &rarr; prešiban**e**/prešiban**o**, vyľakaný &rarr; vyľakan**e**/vyľakan**o**
+
+Príponou -`osť` sa tvoria abstraktné podstatné mená: sladký (príd. m.) &rarr; sladk**osť** (pod. m.), veľký (príd. m.) &rarr; veľk**osť** (pod. m.).
+
+### Vzťahové (sekundárne, ovodené)
+
+Často **odvodené od postatných mien**: zemiak (pod. m.) &rarr; zemiakový (príd. m), odvaha (pod. m.) &rarr; odvážny (príd. m), srdce (pod. m.) &rarr; srdcovitý (príd. m), nad kolenom (predložka + pod. m.) &rarr; nadkolenný (príd. m), dedina (pod. m.) &rarr; dedinský (príd. m), bystrý zrak (príd. m + pod. m.) &rarr; bystrozraký (príd. m), dieťa (pod. m.) &rarr; detský (príd. m).
+
+Môžu byť odvodené aj od:<br>
+- zámen: našský, nanič, niekdajší
+- slovies: tvorivý, chrumkavý, učený
+- prísloviek: horný, včerajší, domáci
+- častíc: naozajstný, neúrečný
+
+#### Druhové vzťahové prídavné mená
+
+Odvodené od mien zvierat, podstatných mien *človek* a *boh*, a niektorých, nezvyčajných druhov osôb: vlk (pod. m.) &rarr; vlčí (príd. m.), mačka (pod. m.) &rarr; mačací (príd. m.), človek (pod. m.) &rarr; človecí (príd. m.), boh (pod. m.) &rarr; boží (príd. m.), trpaslík (pod. m.) &rarr; trpasličí (príd. m.), obor (pod. m.) &rarr; obrí (príd. m.).
+
+Tieto prídavné mená sa nedajú stupňovať.
+
+Vyjadrujú príslušnosť k celému rodu a tvoria sa príponami:
+
+- `í` (m.r.): líšč**í** kožuch, orl**í** zrak
+- `ia` (ž.r.): zajač**ia** nora, slimač**ia** ulita
+- `ie` (str.r. + mn.č.): žraloč**ie** plutvy, trpaslič**ie** plemená
+
+Príponou -`ací` tvoríme druhové prídavné mená:
+
+- od názvov zvierat zakončených na -`a`/-`ä`: jahň**a** &rarr; jahň**ací**, pras**a** &rarr; pras**ací**, žrieb**ä** &rarr; žrieb**äcí**
+- od niektorých iných názvov zvierat: hus &rarr; hus**ací**
+- od podstatného mena *knieža*: knieža &rarr; kniežací.
+
+Niektoré druhové prídavné mená majú aj dvojtvar: ryba &rarr; rybí/rybací, morka &rarr; morčí/morčací, mucha &rarr; muší/mušací.
+
+V niekoľkých prípadoch sa zvieracie prídavné mená tvoria príponami -`ský` alebo -`ový`. Vtedy ich radíme len ku vzťahovým prídavným menám: krava &rarr; krav**ský**, kôň &rarr; kon**ský**, pstruh &rarr; pstruh**ový** (i pstruží), norka &rarr; nork**ový** (i norčí).
+
+Pri tvorení živočíšnych prídavných mien môže v kmeni odvodzovacieho základu dochádzať k striedaniu hlások: pes &rarr; psí, hovädzo &rarr; hovädzí, boh &rarr; boží, blcha &rarr; blší.
+
+Mäkké (okrem `c`) a obojaké spoluhlásky sa pred príponami -`í`, -`ia`, -`ie` nemenie: medve**ď** &rarr; medve**d**í [medve**ď**í], papagá**j** &rarr; papagá**j**í, bobo**r** &rarr; bob**r**í, ALE kane**c** &rarr; kan**č**í. 
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
