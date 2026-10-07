@@ -561,7 +561,7 @@ Patria sem:
 | N   | čaj      | čaje   |
 | G   | čaju \*  | čajov  |
 | D   | čaju     | čajom  |
-| A   | čaj      | čajov  |
+| A   | čaj      | čaje   |
 | L   | čaji     | čajoch |
 | I   | čajom    | čajmi  |
 
