@@ -1634,6 +1634,17 @@ Pri tvorení živočíšnych prídavných mien môže v kmeni odvodzovacieho zá
 
 Mäkké (okrem `c`) a obojaké spoluhlásky sa pred príponami -`í`, -`ia`, -`ie` nemenie: medve**ď** &rarr; medve**d**í [medve**ď**í], papagá**j** &rarr; papagá**j**í, bobo**r** &rarr; bob**r**í, ALE kane**c** &rarr; kan**č**í. 
 
+## Privlastňovacie (posesívne) prídavné mená
+
+Pýtame sa na ne otázkami *čí? čia? čie?* a vyjadrujú komu alebo čomu vec patrí. Nedajú sa stupňovať.
+
+Odvodzujú sa od osobných a zvieracích podstatných mien mužského a ženského rodu.
+
+Keď sú privlastňovacie prídavné mená utvorené od názvov zvierat, vyjadrujú vlastnícky vzťah k jednotlivému zvieraťu, nie k celému druhu.<br>
+Napr.: Na gauči je **psova** srsť, nie **mačkina**. (**privlastňovacie**) ALE Pre alergikov môže byť nebezpečná **psia** i **mačacia** srsť. (**vzťahové**)
+
+Od podstatných mien s podobou prídavných mien (ako spodstatnené prídavné mená) a od podstatných mien stredného rodu sa privlastňovacie mená netvoria. Privlastňovací vzťah sa vyjadruje tvarom genitívu jedného čísla: taška cestujúc**eho**, Univerzita Komensk**ého**, dcéra hostinsk**ej**, kabát dievča**ťa**, obyvatelia mest**a**.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
