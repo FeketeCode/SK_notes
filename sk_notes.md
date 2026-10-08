@@ -1598,7 +1598,7 @@ Príponami sa tvoria príslovky:
 
 Príponou -`osť` sa tvoria abstraktné podstatné mená: sladký (príd. m.) &rarr; sladk**osť** (pod. m.), veľký (príd. m.) &rarr; veľk**osť** (pod. m.).
 
-### Vzťahové (sekundárne, ovodené)
+### Vzťahové (sekundárne, ovodené) prídavné mená
 
 Často **odvodené od postatných mien**: zemiak (pod. m.) &rarr; zemiakový (príd. m), odvaha (pod. m.) &rarr; odvážny (príd. m), srdce (pod. m.) &rarr; srdcovitý (príd. m), nad kolenom (predložka + pod. m.) &rarr; nadkolenný (príd. m), dedina (pod. m.) &rarr; dedinský (príd. m), bystrý zrak (príd. m + pod. m.) &rarr; bystrozraký (príd. m), dieťa (pod. m.) &rarr; detský (príd. m).
 
