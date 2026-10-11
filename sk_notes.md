@@ -669,8 +669,8 @@ Kmeň sa končí na tvrdú/obojakú spoluhlásku, výnimočne na samohlásku.
 
 Patria sem:
 
-- podstatné mená, ktorých kmeň sa končí na tvrdú/obojakú spoluhlásku (pred -`a` je tvrdá/obojaká spoluhláska): mač**k**a, hla**v**a.
-- pomnožné podstatné mená, ktorých základ je zakončený na tvrdú spoluhlásku: novi**n**y, krsti**n**y, hodin**k**y, raňaj**k**y.
+- podstatné mená, ktorých kmeň sa končí na tvrdú/obojakú spoluhlásku (pred koncovkou -`a` je tvrdá/obojaká spoluhláska): mač**ka**, hla**va**.
+- pomnožné podstatné mená, ktorých základ je zakončený na tvrdú spoluhlásku (pred koncovkou -`y` je tvrdá spoluhláska): novi**ny**, krsti**ny**, hodin**ky**, raňaj**ky**.
 
 Je charakteristická zmena kvantity kmeňovej samohlásky a vkladanie samohlásky v genitíve množného čísla.
 
