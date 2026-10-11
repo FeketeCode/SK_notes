@@ -442,7 +442,7 @@ Patria sem:
 | N   | rybník     | rybníky   |
 | G   | rybníka    | rybníkov  |
 | D   | rybníku    | rybníkom  |
-| A   | rybník     | rybník    |
+| A   | rybník     | rybníky   |
 | L   | rybníku \* | rybníkoch |
 | I   | rybníkom   | rybníkmi  |
 
