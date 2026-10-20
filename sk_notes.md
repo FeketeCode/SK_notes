@@ -1634,6 +1634,30 @@ Pri tvorení živočíšnych prídavných mien môže v kmeni odvodzovacieho zá
 
 Mäkké (okrem `c`) a obojaké spoluhlásky sa pred príponami -`í`, -`ia`, -`ie` nemenie: medve**ď** &rarr; medve**d**í [medve**ď**í], papagá**j** &rarr; papagá**j**í, bobo**r** &rarr; bob**r**í, ALE kane**c** &rarr; kan**č**í. 
 
+### Skloňovanie vlastnostných prídavných mien
+
+### Vzor pekný
+
+|     | Singulár<br>Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
+| --- | -------------------------------- | --------------------------------------------- |
+| N   | pekný   \\ pekná  \\ pekné       | pekní   \\ pekné                              |
+| G   | pekného \\ peknej \\ pekného     | pekných \\ pekných                            |
+| D   | peknému \\ peknej \\ peknému     | pekným  \\ pekným                             |
+| A   | pekného \\ peknú  \\ pekné       | pekných \\ pekné                              |
+| L   | peknom  \\ peknej \\ peknom      | pekných \\ pekných                            |
+| I   | pekným  \\ peknou \\ pekným      | peknými \\ peknými                            |
+
+Patria sem:
+
+- vlastnostné prídavné mená, ktorých základ je zakončený na tvrdú/obojakú spoluhlásku: ma**l**ý, romantic**k**ý, dob**r**ý.
+- všeobecné a vlastné spodstatnené prídvané mená: vstup**n**é, chyž**n**á, Tajovs**k**ý, Zemska**j**a, Zakopa**n**é, Ondrašo**v**á.
+- zámená: všelija**k**ý, niekto**r**ý, ktorý**s**i.
+- číslovky: pr**v**ý, milión**t**y (radová čí.), dvojnásob**n**ý, viacnásob**n**ý (násobná čí.), jedna**k**ý, mnohora**k**ý (druhová čí.), viace**r**í, mno**h**í (neurčitá čí.).
+- trpné príčastia: vola**n**ý, zakry**t**ý, mieša**n**ý.
+
+Prídavné mená zakončené na -`e` alebo -`i`/-`í`, ktoré sa skloňujú podľa vzoru *pekný*, majú tvrdú výslovnosť!<br>
+Napr.: biele plachty [bie**l**e plachti], bezcieľne putovanie [bezcieľ**n**e putovaňie], pekní chlapci [pek**n**í chlapci], vysmiati susedia [vysmia**t**i suseďia].
+
 ## Privlastňovacie (posesívne) prídavné mená
 
 Pýtame sa na ne otázkami *čí? čia? čie?* a vyjadrujú komu alebo čomu vec patrí. Nedajú sa stupňovať.
