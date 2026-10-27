@@ -908,7 +908,7 @@ Patira sem:
 - zriedkavo aj:
     - toponymá: Budapešť, Rus, Sibír.
     - počítateľné konkréta: myš, hus, voš.
-- posledná slabika v tvarotvorným základom je krátka a najbežnejšia prípona je `-osť`.
+- posledná slabika v tvarotvorným základom je krátka a najbežnejšia prípona je -`osť`.
 - zakončenia:
     - `(o)sť`: úprimn**osť**, bole**sť**, ča**sť**
     - `c`: mo**c**, ve**c**, no**c**
