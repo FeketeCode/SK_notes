@@ -1133,7 +1133,7 @@ Patria sem:
 
 Patria sem:
 
-- nezdomácnené cudzie podstatné mená zakončené na -`eto`, -`eton`, -`oto`, -`ko`, -`o`, v ktorých tieto zakončenia nie sú súčasťou kmeňa: eur**o**, dep**o**, kont**o**, distich**on**.
+- nezdomácnené cudzie podstatné mená zakončené na -`eto`, -`eton`, -`oto`, -`ko`, -`o`, v ktorých tieto zakončenia nie sú súčasťou kmeňa: eur**o**, dep**o**, kont**o**.
 
 ### Vzor srdce
 
