@@ -1029,7 +1029,7 @@ Napr.: Vidíš tú paniu? ***ALE*** K pani lekárke.
 | I   | mestom   | mestami |
 
 Patria sem:
-- podstatné mená, ktorých tvarotvorné základy sú krátke, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`, menej na -`um`.
+- podstatné mená, ktorých tvarotvorné základy sú krátke, končia nevelárnymi tvrdými alebo obojakými spoluhláskami a najmä na -`o`.
 - nezdomácnené slová latinského pôvodu, ktorých tvarotvorné základy sú krátke a majú kmeň zakončený na spoluhlásku a koncovku -`um`: min**imum**, max**imum**.
 - zakončenia tvarotvorného základu:
     - `b`: Kolom**b**o
