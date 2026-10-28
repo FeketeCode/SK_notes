@@ -1152,7 +1152,7 @@ Patria sem:
 
 > Väčšina podstatných mien má v genitíve plurálu nulovú pádovú príponu a predĺženú poslednú kmeňovú slabiku, ale slová *more*, *pole*, *lože* majú pádovú príponu -`í`: morí, polí, loží.
 >
-> Pri slovách s vkladnou samohláskou v genitíve množného čísla sa pred koncovkou nachádza skupina dvoch samohlások(okrem -`šť`): va**jc**e &rarr; vaj**e**c, pi**vc**e &rarr; piv**ie**c, o**jc**e &rarr; oj**e**c.
+> Pri slovách s vkladnou samohláskou v genitíve množného čísla sa pred koncovkou nachádza skupina dvoch samohlások (okrem -`šť`): va**jc**e &rarr; vaj**e**c, pi**vc**e &rarr; piv**ie**c, o**jc**e &rarr; oj**e**c.
 
 #### 1.podvzor líce
 
