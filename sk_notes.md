@@ -1684,6 +1684,28 @@ Rytmický zákon sa nedodržiava pri:
 - minulom činnom príčastí utvorenom príponou -`vší`: zav**iavší**, vyl**iavší** sa.
 - neurčitých zámenách začínajúcich na `nie`-: **nie**č**í**, **nie**k**ý**m.
 
+#### Vzor páví
+
+|     | Singulár<br>Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
+| --- | -------------------------------- | --------------------------------------------- |
+| N   | páví    \\ pávia \\ pávie        | páví   \\ pávie                               |
+| G   | pávieho \\ pávej \\ pávieho      | pávích \\ pávích                              |
+| D   | páviemu \\ pávej \\ páviemu      | pávím  \\ pávím                               |
+| A   | pávieho \\ páviu \\ pávie        | pávích \\ pávie                               |
+| L   | pávom   \\ pávej \\ pávom        | pávích \\ pávích                              |
+| I   | pávím   \\ pávou \\ pávím        | pávími \\ pávími                              |
+
+Patria sem:
+
+- druhové prídavné mená odvodené od:
+    - zvierat: medvedí, včelí, kozí
+    - osôb: boží, trpasličí, babí
+
+Rytmický zákon sa v tomto prípade nedodržiava.<br>
+Napr.: koc**ú**r**í** (SN-m) - koc**ú**r**ie**mu (SD-m/s), koc**ú**r**í**m (SI-m/s) - koc**ú**r**í**mi (PI).<br>
+Výnimkou sú zvieracie podstatné mená zakončené na -`j` alebo -`ja`.<br>
+Napr.: papag**á**j**e** (SN-s) - papag**á**j**e**ho (SG-m/s) - papag**á**j**e**mu (SD-m/s); papag**á**j**a** (SN-ž) - papag**á**j**u** (SG-ž) ALE papag**á**j**í** (SN-m).
+
 ## Privlastňovacie (posesívne) prídavné mená
 
 Pýtame sa na ne otázkami *čí? čia? čie?* a vyjadrujú komu alebo čomu vec patrí. Nedajú sa stupňovať.
