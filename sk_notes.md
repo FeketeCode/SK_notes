@@ -1636,7 +1636,7 @@ Mäkké (okrem `c`) a obojaké spoluhlásky sa pred príponami -`í`, -`ia`, -`i
 
 ### Skloňovanie vlastnostných prídavných mien
 
-### Vzor pekný
+#### Vzor pekný
 
 |     | Singulár<br>Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
 | --- | -------------------------------- | --------------------------------------------- |
