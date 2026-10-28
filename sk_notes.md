@@ -1706,6 +1706,14 @@ Napr.: koc**ú**r**í** (SN-m) - koc**ú**r**ie**mu (SD-m/s), koc**ú**r**í**m 
 Výnimkou sú zvieracie podstatné mená zakončené na -`j` alebo -`ja`.<br>
 Napr.: papag**á**j**e** (SN-s) - papag**á**j**e**ho (SG-m/s) - papag**á**j**e**mu (SD-m/s); papag**á**j**a** (SN-ž) - papag**á**j**u** (SG-ž) ALE papag**á**j**í** (SN-m).
 
+#### Nesklonné prídavné mená
+
+Zvyčajne majú cudzí pôvod a stoja vždy pred podstatným menom: nóbl reštaurácia, blond vlasy, online kurz.
+
+(Zvyčajne) V hovorovej reči možno k niektorým z nich pripojiť adjektívnu príponu a utvoriť z nich sklonné prídavné mená: fér**ový** (zápas), blonď**avá**, komplet**ný**.
+
+> Vo funkcii prívlastku sú slová *mrcha* a *nanič* tiež nesklonné: mrcha časy, nanič človek.
+
 ## Privlastňovacie (posesívne) prídavné mená
 
 Pýtame sa na ne otázkami *čí? čia? čie?* a vyjadrujú komu alebo čomu vec patrí. Nedajú sa stupňovať.
