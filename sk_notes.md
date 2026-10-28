@@ -1658,6 +1658,32 @@ Patria sem:
 Prídavné mená zakončené na -`e` alebo -`i`/-`í`, ktoré sa skloňujú podľa vzoru *pekný*, majú tvrdú výslovnosť!<br>
 Napr.: biele plachty [bie**l**e plachti], bezcieľne putovanie [bezcieľ**n**e putovaňie], pekní chlapci [pek**n**í chlapci], vysmiati susedia [vysmia**t**i suseďia].
 
+#### Vzor cudzí
+
+|     | Singulár<br>Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
+| --- | -------------------------------- | --------------------------------------------- |
+| N   | cudzí    \\ cudzia \\ cudzie     | cudzí   \\ cudzie                             |
+| G   | cudzieho \\ cudzej \\ cudzieho   | cudzích \\ cudzích                            |
+| D   | cudziemu \\ cudzej \\ cudziemu   | cudzím  \\ cudzím                             |
+| A   | cudzieho \\ cudziu \\ cudzie     | cudzích \\ cudzie                             |
+| L   | cudzom   \\ cudzej \\ cudzom     | cudzích \\ cudzích                            |
+| I   | cudzím   \\ cudzou \\ cudzím     | cudzími \\ cudzími                            |
+
+Patria sem:
+
+- vlastnostné prídavné mená, ktorých základ je zakončený na mäkkú spoluhlásku: skladac**í**, raňaj**š**í, rý**dz**i, horú**c**i.
+- tvary druhého a tretieho stupňa prídavných mien: (naj)men**š**í, (naj)žiadanej**š**í.
+- všeobecné a vlastné spodstatnené prídavné mená: cestujú**c**i, súťažia**c**i, Star**š**í, Revú**c**a.
+- zámená: **č**í, nie**č**í, ni**č**í.
+- číslovky: tretí [tre**ť**í], tisí**c**i (SG: ~~tisícieho~~ &rarr; tisíc**e**ho)
+- prítomné (pádové prípony sú vždy krátke) a minulé (pádové prípony sú vždy dlhé) činné príčastie: vládnu**c**i, stoja**c**i, letia**c**i (prítomné); prebehnuv**š**í, naliav**š**ia, vrátiv**š**í sa (minulé).
+
+Rytmický zákon sa nedodržiava pri:
+
+- prítomnom činnom príčastí utvorenom príponou -`iaci`: p**á**l**iaci**, v**á**ž**iaci**, br**á**n**iaci** sa.
+- minulom činnom príčastí utvorenom príponou -`vší`: zav**iavší**, vyl**iavší** sa.
+- neurčitých zámenách začínajúcich na `nie`-: **nie**č**í**, **nie**k**ý**m.
+
 ## Privlastňovacie (posesívne) prídavné mená
 
 Pýtame sa na ne otázkami *čí? čia? čie?* a vyjadrujú komu alebo čomu vec patrí. Nedajú sa stupňovať.
