@@ -1725,6 +1725,36 @@ Napr.: Na gauči je **psova** srsť, nie **mačkina**. (**privlastňovacie**) AL
 
 Od podstatných mien s podobou prídavných mien (ako spodstatnené prídavné mená) a od podstatných mien stredného rodu sa privlastňovacie mená netvoria. Privlastňovací vzťah sa vyjadruje tvarom genitívu jedného čísla: taška cestujúc**eho**, Univerzita Komensk**ého**, dcéra hostinsk**ej**, kabát dievča**ťa**, obyvatelia mest**a**.
 
+### Skloňovanie privlastňovacích prídavných mien
+
+#### Vzor otcov a matkin
+
+|     | Singulár<br>Živ.Muž. \\ Neživ.Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
+| --- | -------------------------------------------------- | --------------------------------------------- |
+| N   | otcov   \\ otcov   \\ otcova  \\ otcovo            | otcovi   \\ otcove                            |
+| G   | otcovho \\ otcovho \\ otcovej \\ otcovho           | otcových \\ otcových                          |
+| D   | otcovmu \\ otcovmu \\ otcovej \\ otcovmu           | otcovým  \\ otcovým                           |
+| A   | otcovho \\ otcov   \\ otcovu  \\ otcovo            | otcových \\ otcove                            |
+| L   | otcovom \\ otcovom \\ otcovej \\ otcovom           | otcových \\ otcových                          |
+| I   | otcovým \\ otcovým \\ otcovou \\ otcovým           | otcovými \\ otcovými                          |
+
+|     | Singulár<br>Živ.Muž. \\ Neživ.Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
+| --- | -------------------------------------------------- | --------------------------------------------- |
+| N   | matkin   \\ matkin   \\ matkina  \\ matkino        | matkini   \\ matkine                          |
+| G   | matkinho \\ matkinho \\ matkinej \\ matkinho       | matkiných \\ matkiných                        |
+| D   | matkinmu \\ matkinmu \\ matkinej \\ matkinmu       | matkiným  \\ matkiným                         |
+| A   | matkinho \\ matkin   \\ matkinu  \\ matkino        | matkiných \\ matkine                          |
+| L   | matkinom \\ matkinom \\ matkinej \\ matkinom       | matkiných \\ matkiných                        |
+| I   | matkiným \\ matkiným \\ matkinou \\ matkiným       | matkinými \\ matkinými                        |
+
+Podľa vzoru *otcov* sa skloňujú privlastňovacie prídavné mená odvodené od podstatných mien mužského rodu: bratov, priateľov, tigrov, Milanov.<br>
+Pri podstatných menách mužského rodu podľa vzoru *kuli* sa privlastňovací vzťah vyjadruje genitívom jednotného čísla: Dante**ho** Komédia, Goethe**ho** rodný dom, Pauliny**ho** dielo.
+
+Podľa vzoru *matkin* sa skloňujú privlastňovacie prídavné mená odvodené od podstatných mien ženského rodu: sestrin, susedkin, mačkin, Máriin (SN: Mária), Luciin (Lucia).<br>
+Pri ženských menách cudzieho pôvodu zakončených na -`ie`, ktoré sa vyslovuje ako [i], tvoríme privlastňovacie tvary rovnako: Sophie &rarr; Sophin telefón, Maggie &rarr; Maggina sukňa, Annie &rarr; Annino auto.
+
+> Koncové -`ne` sa v slovách podľa vzoru *matkin* vyslovuje tvrdo.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
