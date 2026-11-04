@@ -608,14 +608,14 @@ Zvieracie podstatné mená cudzieho pôvodu sa skloňujú podľa vzoru *kuli*.
 | L   | psovi \| medveďovi \| hadovi | psoch \| medveďoch \| hadoch |
 | I   | psom  \| medveďom  \| hadom  | psami \| medveďmi  \| hadmi  |
 
-|     | Singulár       | Plurál<br>(dlaň [neživ.] \\ stroj [neživ.] \\ chlap [živ.]) |
+|     | Singulár       | Plurál<br>(dlaň [neživ.]<br>stroj [neživ.]<br>chlap [živ.]) |
 | --- | -------------- | ----------------------------------------------------------- |
-| N   | kôň            | -    \\ kone   \\ -                                         |
-| G   | koňa           | koní \\ -      \\ koňov                                     |
-| D   | koňovi         | -    \\ koňom  \\ -                                         |
-| A   | koňa           | -    \\ kone   \\ koňov                                     |
-| L   | koňovi\\koni   | -    \\ koňoch \\ -                                         |
-| I   | koňom          | -    \\ koňmi  \\ -                                         |
+| N   | kôň            | -   <br>kone  <br>-                                         |
+| G   | koňa           | koní<br>-     <br>koňov                                     |
+| D   | koňovi         | -   <br>koňom <br>-                                         |
+| A   | koňa           | -   <br>kone  <br>koňov                                     |
+| L   | koňovi\\koni   | -   <br>koňoch<br>-                                         |
+| I   | koňom          | -   <br>koňmi <br>-                                         |
 
 ### Podvzory vzoru had a vzoru medveď
 
@@ -1638,14 +1638,14 @@ Mäkké (okrem `c`) a obojaké spoluhlásky sa pred príponami -`í`, -`ia`, -`i
 
 #### Vzor pekný
 
-|     | Singulár<br>Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
+|     | Singulár<br>Muž.<br>Žen.<br>Str. | Plurál<br> Živ.Muž.<br>Neživ.Muž. Žen. Stred. |
 | --- | -------------------------------- | --------------------------------------------- |
-| N   | pekný   \\ pekná  \\ pekné       | pekní   \\ pekné                              |
-| G   | pekného \\ peknej \\ pekného     | pekných \\ pekných                            |
-| D   | peknému \\ peknej \\ peknému     | pekným  \\ pekným                             |
-| A   | pekného \\ peknú  \\ pekné       | pekných \\ pekné                              |
-| L   | peknom  \\ peknej \\ peknom      | pekných \\ pekných                            |
-| I   | pekným  \\ peknou \\ pekným      | peknými \\ peknými                            |
+| N   | pekný  <br>pekná <br>pekné       | pekní  <br>pekné                              |
+| G   | pekného<br>peknej<br>pekného     | pekných<br>pekných                            |
+| D   | peknému<br>peknej<br>peknému     | pekným <br>pekným                             |
+| A   | pekného<br>peknú <br>pekné       | pekných<br>pekné                              |
+| L   | peknom <br>peknej<br>peknom      | pekných<br>pekných                            |
+| I   | pekným <br>peknou<br>pekným      | peknými<br>peknými                            |
 
 Patria sem:
 
@@ -1660,14 +1660,14 @@ Napr.: biele plachty [bie**l**e plachti], bezcieľne putovanie [bezcieľ**n**e p
 
 #### Vzor cudzí
 
-|     | Singulár<br>Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
+|     | Singulár<br>Muž.<br>Žen.<br>Str. | Plurál<br> Živ.Muž.<br>Neživ.Muž. Žen. Stred. |
 | --- | -------------------------------- | --------------------------------------------- |
-| N   | cudzí    \\ cudzia \\ cudzie     | cudzí   \\ cudzie                             |
-| G   | cudzieho \\ cudzej \\ cudzieho   | cudzích \\ cudzích                            |
-| D   | cudziemu \\ cudzej \\ cudziemu   | cudzím  \\ cudzím                             |
-| A   | cudzieho \\ cudziu \\ cudzie     | cudzích \\ cudzie                             |
-| L   | cudzom   \\ cudzej \\ cudzom     | cudzích \\ cudzích                            |
-| I   | cudzím   \\ cudzou \\ cudzím     | cudzími \\ cudzími                            |
+| N   | cudzí   <br>cudzia<br>cudzie     | cudzí  <br>cudzie                             |
+| G   | cudzieho<br>cudzej<br>cudzieho   | cudzích<br>cudzích                            |
+| D   | cudziemu<br>cudzej<br>cudziemu   | cudzím <br>cudzím                             |
+| A   | cudzieho<br>cudziu<br>cudzie     | cudzích<br>cudzie                             |
+| L   | cudzom  <br>cudzej<br>cudzom     | cudzích<br>cudzích                            |
+| I   | cudzím  <br>cudzou<br>cudzím     | cudzími<br>cudzími                            |
 
 Patria sem:
 
@@ -1686,14 +1686,14 @@ Rytmický zákon sa nedodržiava pri:
 
 #### Vzor páví
 
-|     | Singulár<br>Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
+|     | Singulár<br>Muž.<br>Žen.<br>Str. | Plurál<br> Živ.Muž.<br>Neživ.Muž. Žen. Stred. |
 | --- | -------------------------------- | --------------------------------------------- |
-| N   | páví    \\ pávia \\ pávie        | páví   \\ pávie                               |
-| G   | pávieho \\ pávej \\ pávieho      | pávích \\ pávích                              |
-| D   | páviemu \\ pávej \\ páviemu      | pávím  \\ pávím                               |
-| A   | pávieho \\ páviu \\ pávie        | pávích \\ pávie                               |
-| L   | pávom   \\ pávej \\ pávom        | pávích \\ pávích                              |
-| I   | pávím   \\ pávou \\ pávím        | pávími \\ pávími                              |
+| N   | páví   <br>pávia<br>pávie        | páví  <br>pávie                               |
+| G   | pávieho<br>pávej<br>pávieho      | pávích<br>pávích                              |
+| D   | páviemu<br>pávej<br>páviemu      | pávím <br>pávím                               |
+| A   | pávieho<br>páviu<br>pávie        | pávích<br>pávie                               |
+| L   | pávom  <br>pávej<br>pávom        | pávích<br>pávích                              |
+| I   | pávím  <br>pávou<br>pávím        | pávími<br>pávími                              |
 
 Patria sem:
 
@@ -1729,23 +1729,23 @@ Od podstatných mien s podobou prídavných mien (ako spodstatnené prídavné m
 
 #### Vzor otcov a matkin
 
-|     | Singulár<br>Živ.Muž. \\ Neživ.Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
+|     | Singulár<br>Živ.Muž.<br>Neživ.Muž.<br>Žen.<br>Str. | Plurál<br> Živ.Muž.<br>Neživ.Muž. Žen. Stred. |
 | --- | -------------------------------------------------- | --------------------------------------------- |
-| N   | otcov   \\ otcov   \\ otcova  \\ otcovo            | otcovi   \\ otcove                            |
-| G   | otcovho \\ otcovho \\ otcovej \\ otcovho           | otcových \\ otcových                          |
-| D   | otcovmu \\ otcovmu \\ otcovej \\ otcovmu           | otcovým  \\ otcovým                           |
-| A   | otcovho \\ otcov   \\ otcovu  \\ otcovo            | otcových \\ otcove                            |
-| L   | otcovom \\ otcovom \\ otcovej \\ otcovom           | otcových \\ otcových                          |
-| I   | otcovým \\ otcovým \\ otcovou \\ otcovým           | otcovými \\ otcovými                          |
+| N   | otcov  <br>otcov  <br>otcova <br>otcovo            | otcovi  <br>otcove                            |
+| G   | otcovho<br>otcovho<br>otcovej<br>otcovho           | otcových<br>otcových                          |
+| D   | otcovmu<br>otcovmu<br>otcovej<br>otcovmu           | otcovým <br>otcovým                           |
+| A   | otcovho<br>otcov  <br>otcovu <br>otcovo            | otcových<br>otcove                            |
+| L   | otcovom<br>otcovom<br>otcovej<br>otcovom           | otcových<br>otcových                          |
+| I   | otcovým<br>otcovým<br>otcovou<br>otcovým           | otcovými<br>otcovými                          |
 
-|     | Singulár<br>Živ.Muž. \\ Neživ.Muž. \\ Žen. \\ Str. | Plurál<br> Živ.Muž. \\ Neživ.Muž. Žen. Stred. |
+|     | Singulár<br>Živ.Muž.<br>Neživ.Muž.<br>Žen.<br>Str. | Plurál<br> Živ.Muž.<br>Neživ.Muž. Žen. Stred. |
 | --- | -------------------------------------------------- | --------------------------------------------- |
-| N   | matkin   \\ matkin   \\ matkina  \\ matkino        | matkini   \\ matkine                          |
-| G   | matkinho \\ matkinho \\ matkinej \\ matkinho       | matkiných \\ matkiných                        |
-| D   | matkinmu \\ matkinmu \\ matkinej \\ matkinmu       | matkiným  \\ matkiným                         |
-| A   | matkinho \\ matkin   \\ matkinu  \\ matkino        | matkiných \\ matkine                          |
-| L   | matkinom \\ matkinom \\ matkinej \\ matkinom       | matkiných \\ matkiných                        |
-| I   | matkiným \\ matkiným \\ matkinou \\ matkiným       | matkinými \\ matkinými                        |
+| N   | matkin  <br>matkin  <br>matkina <br>matkino        | matkini  <br>matkine                          |
+| G   | matkinho<br>matkinho<br>matkinej<br>matkinho       | matkiných<br>matkiných                        |
+| D   | matkinmu<br>matkinmu<br>matkinej<br>matkinmu       | matkiným <br>matkiným                         |
+| A   | matkinho<br>matkin  <br>matkinu <br>matkino        | matkiných<br>matkine                          |
+| L   | matkinom<br>matkinom<br>matkinej<br>matkinom       | matkiných<br>matkiných                        |
+| I   | matkiným<br>matkiným<br>matkinou<br>matkiným       | matkinými<br>matkinými                        |
 
 Podľa vzoru *otcov* sa skloňujú privlastňovacie prídavné mená odvodené od podstatných mien mužského rodu: bratov, priateľov, tigrov, Milanov.<br>
 Pri podstatných menách mužského rodu podľa vzoru *kuli* sa privlastňovací vzťah vyjadruje genitívom jednotného čísla: Dante**ho** Komédia, Goethe**ho** rodný dom, Pauliny**ho** dielo.
@@ -1754,6 +1754,75 @@ Podľa vzoru *matkin* sa skloňujú privlastňovacie prídavné mená odvodené 
 Pri ženských menách cudzieho pôvodu zakončených na -`ie`, ktoré sa vyslovuje ako [i], tvoríme privlastňovacie tvary rovnako: Sophie &rarr; Sophin telefón, Maggie &rarr; Maggina sukňa, Annie &rarr; Annino auto.
 
 > Koncové -`ne` sa v slovách podľa vzoru *matkin* vyslovuje tvrdo.
+
+## Stupňovanie prídavných mien
+
+Stupňujú sa:
+
+- akostné prídavných mená: dlhí &rarr; dlhší &rarr; najdlhší, hlúpy &rarr; hlúpejší &rarr; najhlúpejší.
+
+Nestupňujú sa:
+
+- akostné prídavné mená s absolútnym príznakom: živý, mŕtvy, slepý.<br>(Ak však slovo použijeme v prenesenom význame, stupňovanie môže byť možné: živé (= pohyblivé) dieťa &rarr; živšie dieťa &rarr; najživšie dieťa.
+- vzťahové prídavné mená vyjadrujúce farebné odtienky: béžový, gaštanový, tyrkysový.<br>(Ale bežné farby sa dajú stupňovať: biely &rarr; belší &rarr; najbelší.)
+- prídavné mená v odborných termínoch a vlastných menách: Malá Ázia, stredná Európa, Dlhé Diely.
+
+2.stupeň sa tvorí z 1.stupňa príponami:
+
+| základná miera vlastnosti<br>1.stupeň<br>pozitív | väčšia miera vlastnosti<br>2.stupeň<br>komparatív |
+| ------------------------------------------------ | ------------------------------------------------- |
+| milí                                             | milší                                             |
+| múdry                                            | múdrejší                                          |
+| vysoký                                           | vyšší                                             |
+
+Prípona -`ší` sa používa najmä pri neodvodených prídavných menách: suchý &rarr; such**ší**, nový &rarr; nov**ší**, veselý &rarr; vesel**ší**, úzky &rarr; už**ší**, mäkký &rarr; mäk**ší**, ďaleký &rarr; ďal**ší**.
+
+Prípona -`ejší` sa používa:
+
+- pri prídavných menách s tvarotvorným základom končiacim sa skupinou spoluhlások (slá**vn**y &rarr; slá**vnejší**, význa**mn**ý &rarr; význa**mnejší**, srde**čn**ý &rarr; srde**čnejší**), nevypadajúcim -`k` (hor**k**ý &rarr; hor**kejší**, tr**pk**ý &rarr; tr**pkejší**, kl**zk**ý &rarr; kl**zkejší**), alebo na spoluhlásky:
+    - `p`: hlú**p**y &rarr; hlúp**ejší**
+    - `m`: zná**m**y &rarr; znám**ejší**
+    - `t`: sý**t**y &rarr; sýt**ejší**
+    - `dz`: cu**dz**í &rarr; cudz**ejší**
+    - `c`: horú**c**i &rarr; horúc**ejší**
+    - `z`: dr**z**ý &rarr; drz**ejší**
+    - `s`: bela**s**ý &rarr; belas**ejší**
+    - `ž`: svie**ž**i &rarr; sviež**ejší**
+    - `č`: rú**č**i &rarr; rúč**ejší**
+- pri odvodených a zložených prídavných mien: kvetnatý &rarr; kvetnat**ejší**, počerný &rarr; počern**ejší**, včasný &rarr; včasn**ejší**.
+
+Niektoré prídavné mená tvoria druhý stupeň príponami -`ší` aj -`ejší`: krotký &rarr; krot**ší**\krotk**ejší**, plytký &rarr; plyt**ší**\plytk**ejší**, prudký &rarr; prud**ší**\prudk**ejší**, vlhký &rarr; vlh**ší**\vlhk**ejší**.
+
+3.stupeň sa tvorí pridaním predpony `naj`- pred tvar 2.stupňa:
+
+| základná miera vlastnosti<br>1.stupeň<br>pozitív | väčšia miera vlastnosti<br>2.stupeň<br>komparatív | najväčšia miera vlastnosti<br>3.stupeň<br> superlatív |
+| -------------------------------------------- | --------------------------------------------- | ------------------------------------------------- |
+| rýchly                                       | rýchlejší                                     | najrýchlejší                                      | 
+| tenký                                        | tenší                                         | najtenší                                          | 
+| lacný                                        | lacnejší                                      | najlacnejší                                       | 
+
+> 3.stupeň sa môže zdôrazniť:
+>
+> - známenami `ten`, `tá`, `to` = **ten** najlepší žiak, **tá** najkrajšia herečka, **to** najmilšie dieťa
+> - časticami `čo`, `čím` = **čo** najrýchlejším spôsobom, **čím** najskôr
+> - výrazom `čo možno` = **čo možno** najskôr, **čo možno** najšetrnejšie
+
+### Opisné stupňovanie
+
+Tvorí sa druhým a tretím stupňom prísloviek *málo* alebo *veľa* a základným tvarom prídavného mena.\\
+Napr.: unavený &rarr; viac unavený &rarr; najviac unavený, unavený &rarr; menej unavený &rarr; najmenej unavený.
+
+### Nepravidelné prídavné mená
+
+Päť prídavných mien stupňujeme nepravidelne.
+
+| 1.stupeň | 2.stupeň | 3.stupeň  |
+| -------- | -------- | --------- | 
+| dobrý    | lepší    | najlepší  |
+| zlý      | horší    | najhorší  |
+| pekný    | krajší   | najkrajší |
+| veľký    | väčší    | najväčší  |
+| malý     | menší    | najmenší  |
 
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
