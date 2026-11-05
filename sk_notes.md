@@ -1824,6 +1824,26 @@ Päť prídavných mien stupňujeme nepravidelne.
 | veľký    | väčší    | najväčší  |
 | malý     | menší    | najmenší  |
 
+---
+
+<div style="page-break-after: always;"></div>
+
+<h1 style="text-align:center" id="zamena" >ZÁMENÁ (PRONOMINÁ)</h1>
+
+---
+
+Môžu zastupovať podstatné mená, prídavné mená, číslovky a príslovky. Podľa svojho typu môžu mať gramatické kategórie osoby, rodu, čísla a pádu.<br>
+Napr.: **Naši** (privlastňovacie zámeno) hráči vyhrali. &rlarr; Vyhrali **naši** (podstatné meno).
+
+Delia sa na:
+
+- bezrodové = sú rodovo neutrálne: ja, ty, my, vy, sa, kto.
+- rodové = vyjadrujú rod: on, ona, ono, oni, ony, ten, tí, všetky, všetci.
+
+Podľa vecného významu delíme zámená na osobné, zvratné, ukazovacie, opytovacie, neurčité a vymedzovacie.
+
+Podľa gramatického významu delíme zámená podľa toho, ktorý slovný druh zastupujú: substantívne, adjektívne, číslovkové, príslovkové.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
