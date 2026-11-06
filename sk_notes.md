@@ -1844,6 +1844,35 @@ Podľa vecného významu delíme zámená na osobné, zvratné, ukazovacie, opyt
 
 Podľa gramatického významu delíme zámená podľa toho, ktorý slovný druh zastupujú: substantívne, adjektívne, číslovkové, príslovkové.
 
+## Osobné zámená
+
+Delia sa na základné a privlastňovacie zámená.
+
+### Základné zámená
+
+Pomenúvajú gramatické osoby.
+
+|         | číslo    | zámeno     |                                            |
+| ------- | -------- | ---------- | ------------------------------------------ |
+| 1.osoba | j.č.     | ja         | hovoriaci                                  |
+|         | mn.č.    | my         | skupina vrátane hovoriaceho                |
+| 2.osoba | j.č.     | ty         | poslucháč (tykanie)                        |
+|         | mn.č.    | vy         | skupina poslucháčov<br>poslucháč (vykanie) |
+| 3.osoba | j.č.     | on/ona/ono | predmet komunikácie                        |
+|         | mn.č.    | oni/ony    | predmety komunikácie                       |
+
+> Ak vykáme, píšeme *Vy* s veľkým začiatočným písmenom.
+
+### Privlastňovacie zámená
+
+Privlastňujú prvej, druhej a tretej osobe.
+
+|         | jednotné číslo   | množné číslo    |
+| ---     | ---------------- | --------------- |
+| 1.osoba | môj/moja/moje    | náš/naša/naše   |
+| 2.osoba | tvoj/tvoja/tvoje | váš/vaša/vaše   |
+| 3.osoba | jeho/jej         | ich             |
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
