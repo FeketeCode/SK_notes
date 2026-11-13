@@ -1873,6 +1873,28 @@ Privlastňujú prvej, druhej a tretej osobe.
 | 2.osoba | tvoj/tvoja/tvoje | váš/vaša/vaše   |
 | 3.osoba | jeho/jej         | ich             |
 
+## Osobné zámená
+
+### Základné zvratné zámená
+
+| Pád | Zámeno  |
+| --- | ------- |
+| N   | -       |
+| G   | seba    |
+| D   | sebe/si |
+| A   | seba/sa |
+| L   | sebe    |
+| I   | sebou   |
+
+Stotožňujú osobu alebo vec s podmetom vety: Pobozkali matku - Pobozkali **sa**; Umývam auto - **Umývam** sa.
+
+Môžu sa spájať aj s vykonávateľom deja, ktorý je vyjadrený druhým slovesom: **Radím** (1.sloveso) ti **netrápiť** (2.sloveso) **sa**.
+
+O zvratnom zámene hovoríme vtedy, keď sa dajú nahradiť **sa**/**si** iným zámenom (seba, sebe, svoj, ...) **bez zmeny významu slovesa**.<br>
+Napr.: Okúpala **sa** - Okúpala **seba**; Uviazal **si** kravatu - Uviazal **sebe** kravatu; Zapredali **sa** - Zapredali **seba**; Upravila **si** vlasy - Upravila **sebe** vlasy; Pomohli **si** - Pohomli **sebe**.<br>
+Ak sa to nedá, ide o **súčasť zvratného slovesa**.<br>
+Napr.: smial **sa** **ALE** smial **sa sám sebe**; Na chvíľku **si** odpočiň; Kamarátili **sa** spolu; Práčka **sa** pokazila.
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
