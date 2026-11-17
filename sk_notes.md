@@ -1278,9 +1278,9 @@ Cudzie a prevzaté vlastné mená s nezvyčajným zakončením radíme k stredn�
 Vyskytujú sa najmä v jednotnom čísle, ale v množnom čísle sa s nimi môžeme stretnúť keď:
 
 - hovoríme o viacerých nositeľoch rovnakého krstného mena. V nominatíve množného čísla majú mužské krstné mená koncovku -`ovia`, ženského krstné mená majú koncovky podľa ženských vzorov.<br>
-Napr.: dnes majú meniny Juraj**ovia**; prišli obaja Petr**ovia**; v práci máme tri Beát**y** (vzor *žena*); obidve sú Patríc**ie** (vzor *agresia*); v triede máme päť Zlat**íc** (vzor *ulica*)
-- hovoríme o nositeľoch rovnakého priezviska, ktorí **nie sú príbuzní**. V jednotnom čísle mužského rodu v nominatíve používame -`ovia`, a v ženskom rode -`ová`/-`ská`.<br>
-Napr.: žije tu veľa Horváth**ov**; obidve sú Abelov**ské**.
+Napr.: Dnes majú meniny Juraj**ovia**; Prišli obaja Petr**ovia**; V práci máme tri Beát**y** (vzor *žena*); Obidve sú Patríc**ie** (vzor *agresia*); V triede máme päť Zlat**íc** (vzor *ulica*)
+- hovoríme o nositeľoch rovnakého priezviska, ktorí **nie sú príbuzní**. Používame v mužskom rode v nominatíve príponu -`ovia`, a v ženskom rode -`ová`/-`ská`.<br>
+Napr.: Žije tu veľa Horváth**ov**; obidve sú Abelov**ské**.
 - hovoríme o nositeľoch rovnakého priezviska, ktorí **sú príbuzní**. Prípony:
     - `ovci`: v type Kováč: bratia Kováč**ovci**, Nemc**ovci**, Beň**ovci**, Baláž**ovci**
     - `ové`: v type Kováčová (vzor *pekná*): sestry Kováč**ové**, Horváth**ové**, Beň**ové**
@@ -1294,7 +1294,7 @@ Príslušníkov jednej rodiny môžeme označiť pomocou -`ová` (ako rodina Kov
     - miest: Atény, Benátky, Helsinky, Doľany
     - sviatkov: Vianoce, Turíce, Hromnice
 
-> Pri vlastnom mene v množnom čísle sa aj prívlastok alebo kategória často skloňuje v jednotnom rode, ale v množnom čísle: Benátky **sú** mest**o** v Taliansku.
+> Pri vlastnom mene, ktoré má iba tvar množného čísla, sa sloveso zhoduje s tvarom mena v množnom čísle. Ak však nasledujúce pomenovanie vyjadruje, do akej jednotnej kategórie vec patrí, býva v jednotnom čísle: **Benátky sú** (mn.č.) **mesto** (j.č.) v Taliansku.
 
 ### Vlastné osobné mená
 
