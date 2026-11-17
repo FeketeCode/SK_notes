@@ -1895,6 +1895,28 @@ Napr.: Okúpala **sa** - Okúpala **seba**; Uviazal **si** kravatu - Uviazal **s
 Ak sa to nedá, ide o **súčasť zvratného slovesa**.<br>
 Napr.: smial **sa** **ALE** smial **sa sám sebe**; Na chvíľku **si** odpočiň; Kamarátili **sa** spolu; Práčka **sa** pokazila.
 
+### Privlastňovacie zvratné zámená
+
+Patrí sem zámeno *svoj*, ktoré privlastňuje iba podmetu a zastupuje ostatné privlastňovacie osobné zámená.<br>
+Napr.: Stretol **svojho** otca; Rozlúčil sa so **svojimi** kolegami; Požičal mi **svoje** auto; Babka mi odkázala všetok **svoj** majetok.
+
+Zámeno *svoj* sa môže spodstatniť, keď označuje:
+
+- vlastníctvo: Pracuje na **svojom**.
+- manželov: Zavolal na chatu aj tú **svoju**.
+- blízkych ľudí: Pomáha **svojim**.
+
+Zámeno *svoj* sa nepoužíva, ak:
+
+- privlastňujeme skupine presahujúcej podmet: Stretneme sa pri **našej** (~~svojej~~) škole; Budeme držať palce **našim** (~~svojim~~) hokejistom; Ničíme naše (~~svoje~~) životné prostredie. ALE Oni predali **svoj** dom (Dom patril im). Deti si upratali **svoje** izby (Izby patria deťom).
+- by mohlo dôjsť k nedorozumeniu:
+    - Odneste **moje** kufre do **mojej** izby. (Kufre a izba patria mne).
+    - Odneste **svoje** kufre do **mojej** izby. (Izba patria mne, ale kufre patria jemu).
+    - Odneste **moje** kufre do **svojej** izby. (Kufre patria mne, ale izba patrí jemu).
+- keď rozlišujeme pôvodcu deja od vykonávateľa deja:
+    - Ďakujeme **vám** za prednostné vybavenie **našej** objednávky. (Pôvodcu deja = vy, vlastník objednávky = my)
+    - Ďakujeme **vám** za prednostné vybavenie **svojej** objednávky. (Pôvodcu deja = vy, vlastník objednávky = vy)
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
