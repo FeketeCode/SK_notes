@@ -1917,6 +1917,15 @@ Zámeno *svoj* sa nepoužíva, ak:
     - Ďakujeme **vám** za prednostné vybavenie **našej** objednávky. (Pôvodcu deja = vy, vlastník objednávky = my)
     - Ďakujeme **vám** za prednostné vybavenie **svojej** objednávky. (Pôvodcu deja = vy, vlastník objednávky = vy)
 
+## Ukazovacie zámená
+
+- bližsia: ten, tá, to; tento, táto, toto; taký, taká, také; takýto, takáto, takéto; toľko toľkoto, takto, tu, tuto; sem
+- vzdialenejšia: tamten, tamtá, tamto; onen, oná, ono, oný; onaký, onaká, onaké; onak
+
+V ukazovacích zámenách sa spoluhláska *t* **vždy vyslovuje tvrdo!**<br>Napr.: ~~[ťie]~~, ~~[ťieto]~~ &rarr; [tie],[tieto].
+
+Ukazovacie zámená majú aj odkazovací význam (napr.: **Tá** tam nebola &rarr; už nie je prítomná, **neukazuje sa** na ňu, ale **odkazuje**) a citovo zafarebnené použitie zvyčajne spojené s nespokojnosťou alebo začudovaním (napr.: Čo **tá** Magda vymýšla? Odkiaľ prišiel **tento** nevychovanec? **Takýto** nečas!)
+
 |     | Singulár | Plurál |
 | --- | -------- | ------ |
 | N   |  |  |
